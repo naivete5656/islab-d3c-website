@@ -31,9 +31,9 @@ interests:
 - Machine Learning
 - Pattern Recognition
 - Computer Vision
-- medical image analysis
-- label-efficient learning
-- vision and omics model
+- Medical image analysis
+- Label-efficient learning
+- Vision and omics model
 
 #education:
 #  courses:

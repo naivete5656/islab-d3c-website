@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: 助教授
+role: 助教
 group: 知能情報基盤部門
 
 # Organizations/Affiliations
@@ -32,8 +32,8 @@ interests:
 - パターン認識
 - コンピュータビジョン
 - 医療画像分析
-- label-efficient learning
-- vision and omics model
+- Label-efficient learning
+- Vision and omics model
 
 #education:
 #  courses:
