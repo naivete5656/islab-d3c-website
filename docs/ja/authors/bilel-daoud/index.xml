@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilel Daoud | ISLab, Osaka University</title>
+    <link>/ja/authors/bilel-daoud/</link>
+      <atom:link href="/ja/authors/bilel-daoud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bilel Daoud</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/bilel-daoud/avatar_hu1c4867ab446904c0b642d1d657463479_1012189_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bilel Daoud</title>
+      <link>/ja/authors/bilel-daoud/</link>
+    </image>
+    
+  </channel>
+</rss>

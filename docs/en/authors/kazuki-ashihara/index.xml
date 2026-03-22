@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazuki Ashihara | ISLab, Osaka University</title>
+    <link>/en/authors/kazuki-ashihara/</link>
+      <atom:link href="/en/authors/kazuki-ashihara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kazuki Ashihara</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hu395f5bc88680994b3144d9b1afedc509_9245_300x300_fit_lanczos_3.png</url>
+      <title>Kazuki Ashihara</title>
+      <link>/en/authors/kazuki-ashihara/</link>
+    </image>
+    
+    <item>
+      <title>Information Extraction from Public Meeting Articles</title>
+      <link>/en/publication/virgo-2022-sncs/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/virgo-2022-sncs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving topic modeling through homophily for legal documents</title>
+      <link>/en/publication/ashihara-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashihara-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextualized multi-sense word embedding</title>
+      <link>/en/publication/ashihara-2019-a/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashihara-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legal information as a complex network: Improving topic modeling through homophily</title>
+      <link>/en/publication/ashihara-2019-b/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashihara-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextualized context2vec</title>
+      <link>/en/publication/ashihara-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashihara-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

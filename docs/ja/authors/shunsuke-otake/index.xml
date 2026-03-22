@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>大竹 俊輔 | ISLab, Osaka University</title>
+    <link>/ja/authors/shunsuke-otake/</link>
+      <atom:link href="/ja/authors/shunsuke-otake/index.xml" rel="self" type="application/rss+xml" />
+    <description>大竹 俊輔</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/shunsuke-otake/avatar_hu6ddfe3e68081af800e8a29e9714dd359_6707620_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>大竹 俊輔</title>
+      <link>/ja/authors/shunsuke-otake/</link>
+    </image>
+    
+  </channel>
+</rss>

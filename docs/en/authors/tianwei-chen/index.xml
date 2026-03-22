@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianwei Chen | ISLab, Osaka University</title>
+    <link>/en/authors/tianwei-chen/</link>
+      <atom:link href="/en/authors/tianwei-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianwei Chen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/tianwei-chen/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_1151198_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Tianwei Chen</title>
+      <link>/en/authors/tianwei-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

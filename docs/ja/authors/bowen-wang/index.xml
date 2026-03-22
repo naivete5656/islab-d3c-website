@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bowen Wang | ISLab, Osaka University</title>
+    <link>/ja/authors/bowen-wang/</link>
+      <atom:link href="/ja/authors/bowen-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bowen Wang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/bowen-wang/avatar_hu9ca071dfc06765751abafcecba2551ba_10165004_270x270_fill_lanczos_center_3.png</url>
+      <title>Bowen Wang</title>
+      <link>/ja/authors/bowen-wang/</link>
+    </image>
+    
+    <item>
+      <title>Instruct Me More! Random Prompting for Visual In-Context Learning</title>
+      <link>/ja/publication/zhang-2024-instruct/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/zhang-2024-instruct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning bottleneck concepts in image classification</title>
+      <link>/ja/publication/wang-2023-learning/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/wang-2023-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time estimation of the remaining surgery duration for cataract surgery using deep convolutional neural networks and long short-term memory</title>
+      <link>/ja/publication/wang-2023-realtime/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/wang-2023-realtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated grading system of retinal arterio-venous crossing patterns: A deep learning approach replicating ophthalmologist’s diagnostic process of arteriolosclerosis</title>
+      <link>/ja/publication/li-2023-automated/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/li-2023-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic evaluation of atlantoaxial subluxation in rheumatoid arthritis by a deep learning model</title>
+      <link>/ja/publication/okita-2023-atlantoaxial/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/okita-2023-atlantoaxial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CARE-MI: Chinese benchmark for misinformation evaluation in maternity and infant care</title>
+      <link>/ja/publication/xiang-2023-care/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/xiang-2023-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Match them up: visually explainable few-shot image classification</title>
+      <link>/ja/publication/wang-2022-match/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/wang-2022-match/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Retrieval by Hierarchy-aware Deep Hashing Based on Multi-task Learning</title>
+      <link>/ja/publication/wang-2021-image/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/wang-2021-image/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCOUTER: Slot attention-based classifier for explainable image recognition</title>
+      <link>/ja/publication/li-2021-scouter/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/li-2021-scouter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTUNet: Few-shot image classification with visual explanations</title>
+      <link>/ja/publication/wang-2021-mtunet/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/wang-2021-mtunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noisy-LSTM: Improving temporal awareness for video semantic segmentation</title>
+      <link>/ja/publication/wang-2021-noisy/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/wang-2021-noisy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AIホスピタル</title>
+      <link>/ja/project/ai-hospital/</link>
+      <pubDate>Wed, 01 Jul 2020 10:05:12 +0900</pubDate>
+      <guid>/ja/project/ai-hospital/</guid>
+      <description>&lt;p&gt;大阪大学附属病院はでは、医療従事者、医療情報専門家、テータサイエンティストなどが一体となることにより、AIを用いた医療を速やかに、かつ安全に医療現場に導入するために、&lt;a href=&#34;https://www.hosp.med.osaka-u.ac.jp/departments/ai.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI医療センター&lt;/a&gt;を設立しました。&lt;/p&gt;
+&lt;p&gt;ISLabでは、最新のAIの技術を利用してAI医療センターと共同研究を進めています。&lt;/p&gt;
+&lt;h2 id=&#34;眼科と人工知能&#34;&gt;眼科と人工知能&lt;/h2&gt;
+&lt;p&gt;網膜画像中の血管を見ると、人の循環器システムに関する様々な情報を取り出すことができ、眼科のみではなく様々な診療科で活用されています。我々は、血管の自動抽出を目指して、IterNetという、深層学習を利用した新しい手法を開発しました (図(e))。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_0cf69ea8a514b551b486f1fc0f747c79.webp 400w,
+               /ja/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_a7bc970682d91aff443122097a8a8c3a.webp 760w,
+               /ja/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/ja/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_0cf69ea8a514b551b486f1fc0f747c79.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;また、このIterNetをベースに、動脈と静脈を抽出、分類する手法を提案しています。この手法では深層学習を利用した分類器の結果に後処理を適用することで高い精度を達成しました。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_502dfe669af2e3e1612fca208636e48d.webp 400w,
+               /ja/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_7f317d7eba3ee7cef1d24fb60c00137d.webp 760w,
+               /ja/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/ja/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_502dfe669af2e3e1612fca208636e48d.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

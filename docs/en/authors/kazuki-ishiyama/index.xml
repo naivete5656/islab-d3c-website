@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazuki Ishiyama | ISLab, Osaka University</title>
+    <link>/en/authors/kazuki-ishiyama/</link>
+      <atom:link href="/en/authors/kazuki-ishiyama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kazuki Ishiyama</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/kazuki-ishiyama/avatar_hu5b860be8e98af3c9df6a2ed846905a4d_5769372_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kazuki Ishiyama</title>
+      <link>/en/authors/kazuki-ishiyama/</link>
+    </image>
+    
+  </channel>
+</rss>

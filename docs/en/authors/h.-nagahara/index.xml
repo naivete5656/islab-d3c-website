@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Nagahara | ISLab, Osaka University</title>
+    <link>/en/authors/h.-nagahara/</link>
+      <atom:link href="/en/authors/h.-nagahara/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Nagahara</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hu395f5bc88680994b3144d9b1afedc509_9245_300x300_fit_lanczos_3.png</url>
+      <title>H. Nagahara</title>
+      <link>/en/authors/h.-nagahara/</link>
+    </image>
+    
+    <item>
+      <title>Warmer Environments Increase Implicit Mental Workload Even If Learning Efficiency Is Enhanced</title>
+      <link>/en/publication/kimura-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/kimura-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Coded Aperture for Watermark Extraction from Defocused Images</title>
+      <link>/en/publication/hamasaki-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/hamasaki-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficacy of Novel Multispectral Imaging Device to Determine Anastomosis for Esophagogastrostomy</title>
+      <link>/en/publication/tsutsumi-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/tsutsumi-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical and modern features for Buddha statue classification</title>
+      <link>/en/publication/renoust-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/renoust-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamic photometric stereo method using a multi-tap CMOS image sensor</title>
+      <link>/en/publication/yoda-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/yoda-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental structural modeling on sparse visual SLAM</title>
+      <link>/en/publication/roberto-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/roberto-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed features for face detection in thermal image</title>
+      <link>/en/publication/ma-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ma-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

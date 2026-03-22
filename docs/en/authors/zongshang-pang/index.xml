@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zongshang Pang | ISLab, Osaka University</title>
+    <link>/en/authors/zongshang-pang/</link>
+      <atom:link href="/en/authors/zongshang-pang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zongshang Pang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/zongshang-pang/avatar_hu1ccbff0aea23a1c40e1b724b8c5193b4_2655365_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zongshang Pang</title>
+      <link>/en/authors/zongshang-pang/</link>
+    </image>
+    
+    <item>
+      <title>Revisiting Pixel-Level Contrastive Pre-Training on Scene Images</title>
+      <link>/en/publication/pang-2024-revisiting/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/en/publication/pang-2024-revisiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Losses Are Natural Criteria for Unsupervised Video Summarization</title>
+      <link>/en/publication/pang-2023-contrastive/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/en/publication/pang-2023-contrastive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

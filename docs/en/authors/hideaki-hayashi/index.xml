@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hideaki Hayashi | ISLab, Osaka University</title>
+    <link>/en/authors/hideaki-hayashi/</link>
+      <atom:link href="/en/authors/hideaki-hayashi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hideaki Hayashi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/hideaki-hayashi/avatar_hu25d333fcded103db2f52f7476cb1420a_52992_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hideaki Hayashi</title>
+      <link>/en/authors/hideaki-hayashi/</link>
+    </image>
+    
+    <item>
+      <title>A Hybrid of Generative and Discriminative Models Based on the Gaussian-coupled Softmax Layer</title>
+      <link>/en/publication/hayashi-2024-hybrid/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/hayashi-2024-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applicability of Facial Video-Based Alertness Estimation Model in Real Online and In-Person Classrooms</title>
+      <link>/en/publication/ashida-2025-applicability/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashida-2025-applicability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Analysis of Autistic Tendencies at 18 Months of Age Using Eye Gaze Characteristics in 4-, 10-, and 18-month-old Infants</title>
+      <link>/en/publication/ueda-2025-discriminative/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ueda-2025-discriminative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian-Based Instance-Adaptive Intensity Modeling for Point-Supervised Facial Expression Spotting</title>
+      <link>/en/publication/deng-2025-gaussian/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/deng-2025-gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Experimental Design in Age Prediction from Retinal Fundus Images</title>
+      <link>/en/publication/panic-2025-impact/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/panic-2025-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Task Learning of Classification and Generation for Set-Structured Data</title>
+      <link>/en/publication/sato-2025-multi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/sato-2025-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Negative Tensor Factorization of Infant Spontaneous Movements: A Pilot Study for ASD Risk Evaluation of Newborn Infants</title>
+      <link>/en/publication/yonei-2025-non/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/yonei-2025-non/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CALICO: Confident Active Learning with Integrated Calibration</title>
+      <link>/en/publication/querol-2024-calico/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/en/publication/querol-2024-calico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Bayesian Active Learning-to-Rank with Relative Annotation for Estimation of Ulcerative Colitis Severity</title>
+      <link>/en/publication/kadota-2024-deep/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/en/publication/kadota-2024-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Internal State Feedback in an E-learning Environment Acceptable to People?</title>
+      <link>/en/publication/ashida-2024-internal/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashida-2024-internal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIDAS: Mixing Ambiguous Data With Soft Labels for Dynamic Facial Expression Recognition</title>
+      <link>/en/publication/kawamura-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/en/publication/kawamura-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Scale Spatio-Temporal Graph Convolutional Network for Facial Expression Spotting</title>
+      <link>/en/publication/deng-2024-multi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/en/publication/deng-2024-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudo-Label Learning with Calibrated Confidence Using an Energy-Based Model</title>
+      <link>/en/publication/toba-2024-pseudo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/en/publication/toba-2024-pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Font Style Usage and Contextual Factors in Real Images</title>
+      <link>/en/publication/yasukochi-2023-analyzing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/en/publication/yasukochi-2023-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Bayesian Active Learning to Rank for Endoscopic Image Data</title>
+      <link>/en/publication/kadota-2022-deep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/kadota-2022-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human--Machine Interfaces Based on Bioelectric Signals: A Narrative Review with a Novel System Proposal</title>
+      <link>/en/publication/hayashi-2022-human/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/hayashi-2022-human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society 5.0 Projects</title>
+      <link>/en/project/society5_0/</link>
+      <pubDate>Wed, 01 Jul 2020 10:07:15 +0900</pubDate>
+      <guid>/en/project/society5_0/</guid>
+      <description>&lt;p&gt;D3 Center, Osaka University is now working on &lt;a href=&#34;https://www.ildi.ids.osaka-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Society 5.0&lt;/a&gt; using information science and technology.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the world of Society 5.0, innovations in IoT, Big Data, robotics, and AI will be part of everyday life, helping people lead active and high-quality lives, creating a super-smart society. This project encourages collaboration across projects and university organizations, thus promoting faster adoption of research results in real-world society.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Under this big project, we are working two sub-projects:&lt;/p&gt;
+&lt;h2 id=&#34;social-sensing-for-society-50&#34;&gt;Social sensing for Society 5.0&lt;/h2&gt;
+&lt;p&gt;Sensing technologies that aggregate various types of information from publicly and ubiquitously available social probes including social networking services are essential for providing various services in the world of Society 5.0. We are working towards establishing a social sensing technology that can infer emotional states of people for timely services.&lt;/p&gt;
+&lt;h2 id=&#34;future-school-technology-for-society-50&#34;&gt;Future school technology for Society 5.0&lt;/h2&gt;
+&lt;p&gt;Education everywhere is one of SDGs, and e-learning is one solution toward this. We collectively working on a broad range of technologies related to e-learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

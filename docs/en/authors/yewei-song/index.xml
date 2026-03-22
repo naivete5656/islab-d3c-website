@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yewei Song | ISLab, Osaka University</title>
+    <link>/en/authors/yewei-song/</link>
+      <atom:link href="/en/authors/yewei-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yewei Song</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/yewei-song/avatar_hu25d333fcded103db2f52f7476cb1420a_1453909_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yewei Song</title>
+      <link>/en/authors/yewei-song/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meng Siyuan | ISLab, Osaka University</title>
+    <link>/ja/authors/meng-siyuan/</link>
+      <atom:link href="/ja/authors/meng-siyuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meng Siyuan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/meng-siyuan/avatar_hub73b6e155a3e1d7ac4e8f504e787c451_380749_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Meng Siyuan</title>
+      <link>/ja/authors/meng-siyuan/</link>
+    </image>
+    
+  </channel>
+</rss>

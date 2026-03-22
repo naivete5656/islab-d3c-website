@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheikh Brahim El Vaigh | ISLab, Osaka University</title>
+    <link>/en/authors/cheikh-brahim-el-vaigh/</link>
+      <atom:link href="/en/authors/cheikh-brahim-el-vaigh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheikh Brahim El Vaigh</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hu395f5bc88680994b3144d9b1afedc509_9245_300x300_fit_lanczos_3.png</url>
+      <title>Cheikh Brahim El Vaigh</title>
+      <link>/en/authors/cheikh-brahim-el-vaigh/</link>
+    </image>
+    
+    <item>
+      <title>GCNBoost: Artwork Classificationby Label Propagation Through a Knowledge Graph</title>
+      <link>/en/publication/vaigh-2021-gcnboost/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/vaigh-2021-gcnboost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Built year prediction from Buddha face with heterogeneous labels</title>
+      <link>/en/publication/qian-2021-built/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/qian-2021-built/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving topic modeling through homophily for legal documents</title>
+      <link>/en/publication/ashihara-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashihara-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

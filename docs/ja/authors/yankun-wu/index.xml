@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yankun Wu | ISLab, Osaka University</title>
+    <link>/ja/authors/yankun-wu/</link>
+      <atom:link href="/ja/authors/yankun-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yankun Wu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/yankun-wu/avatar_hu21a6fad5a035d7ef2e2d69889bbc553b_3060360_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yankun Wu</title>
+      <link>/ja/authors/yankun-wu/</link>
+    </image>
+    
+    <item>
+      <title>Not only generative art: Stable diffusion for content-style disentanglement in art analysis</title>
+      <link>/ja/publication/wu-2023-notonly/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/wu-2023-notonly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncurated image-text datasets: Shedding light on demographic bias</title>
+      <link>/ja/publication/garcia-2023-uncurated/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/garcia-2023-uncurated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

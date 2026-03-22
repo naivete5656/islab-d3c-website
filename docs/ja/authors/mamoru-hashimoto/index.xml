@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mamoru Hashimoto | ISLab, Osaka University</title>
+    <link>/ja/authors/mamoru-hashimoto/</link>
+      <atom:link href="/ja/authors/mamoru-hashimoto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mamoru Hashimoto</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hu395f5bc88680994b3144d9b1afedc509_9245_300x300_fit_lanczos_3.png</url>
+      <title>Mamoru Hashimoto</title>
+      <link>/ja/authors/mamoru-hashimoto/</link>
+    </image>
+    
+    <item>
+      <title>Improvement of nerve imaging speed with coherent anti-Stokes Raman scattering rigid endoscope using deep-learning noise reduction</title>
+      <link>/ja/publication/yamato-2020-a/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yamato-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nerve segmentation with deep learning from label-free endoscopic images obtained using coherent anti-stokes Raman scattering</title>
+      <link>/ja/publication/yamato-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yamato-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Article: Label-free nerve imaging with a coherent anti-Stokes Raman scattering rigid endoscope using two optical fibers for laser delivery</title>
+      <link>/ja/publication/hirose-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/hirose-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noa Garcia | ISLab, Osaka University</title>
+    <link>/ja/authors/noa-garcia/</link>
+      <atom:link href="/ja/authors/noa-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noa Garcia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/noa-garcia/avatar_hu6fdf8eedf112c692afb626d9bc086270_29773_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Noa Garcia</title>
+      <link>/ja/authors/noa-garcia/</link>
+    </image>
+    
+    <item>
+      <title>Model-agnostic gender debiased image captioning</title>
+      <link>/ja/publication/hirota-2023-model/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/hirota-2023-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not only generative art: Stable diffusion for content-style disentanglement in art analysis</title>
+      <link>/ja/publication/wu-2023-notonly/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/wu-2023-notonly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncurated image-text datasets: Shedding light on demographic bias</title>
+      <link>/ja/publication/garcia-2023-uncurated/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/garcia-2023-uncurated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CARE-MI: Chinese benchmark for misinformation evaluation in maternity and infant care</title>
+      <link>/ja/publication/xiang-2023-care/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/xiang-2023-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender and Racial Bias in Visual Question Answering Datasets</title>
+      <link>/ja/publication/hirota-2022-facct/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/hirota-2022-facct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Societal Bias Amplification in Image Captioning</title>
+      <link>/ja/publication/hirota-2022-cvpr/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/hirota-2022-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The semantic typology of visually grounded paraphrases</title>
+      <link>/ja/publication/chu-2021-semantic/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/chu-2021-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCNBoost: Artwork Classificationby Label Propagation Through a Knowledge Graph</title>
+      <link>/ja/publication/vaigh-2021-gcnboost/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/vaigh-2021-gcnboost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferring domain-agnostic knowledge in video question answering</title>
+      <link>/ja/publication/wu-2021-transferring/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/wu-2021-transferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explain me the painting: Multi-topic knowledgeable art description generation</title>
+      <link>/ja/publication/bai-2021-explain/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/bai-2021-explain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attending self-attention: A case study of visually grounded supervision in vision-and-language transformers</title>
+      <link>/ja/publication/samaran-2021-attending/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/samaran-2021-attending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of language Transformers for video question answering</title>
+      <link>/ja/publication/yang-2021-bert/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yang-2021-bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The laughing machine: Predicting humor in video</title>
+      <link>/ja/publication/kayatani-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/kayatani-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-lingual visual grounding</title>
+      <link>/ja/publication/dong-2021/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/dong-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demographic influences on contemporary art with unsupervised style embeddings</title>
+      <link>/ja/publication/huckle-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/huckle-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge-based video question answering with unsupervised scene descriptions</title>
+      <link>/ja/publication/garcia-2020-c/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/garcia-2020-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge VQA</title>
+      <link>/ja/project/kiban_b-kvqa/</link>
+      <pubDate>Wed, 01 Jul 2020 10:13:28 +0900</pubDate>
+      <guid>/ja/project/kiban_b-kvqa/</guid>
+      <description>&lt;p&gt;知識を要する画像・映像に関する質疑応答（Knowledge Visual Question Answering; KVQA）は、画像・映像に関する質問で、回答に知識を必要とするタスクです。知識を要求するこの新しいタスクは、今までのタスクと同様画像・映像の理解に加えて、どうやって知識を収集するのか、回答生成時にどうやって（外部）知識を取り入れるのか、という新しいチャレンジが必要になります。&lt;/p&gt;
+&lt;p&gt;このプロジェクトでは、&lt;a href=&#34;https://knowit-vqa.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KVQAのための新しいデータセット&lt;/a&gt;を構築し、公開しています。この成果は、人工知能分野のトップカンファレンスの一つである&lt;a href=&#34;https://aaai.org/Conferences/AAAI-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI 2020&lt;/a&gt;で発表しました。&lt;/p&gt;
+&lt;p&gt;また、深層学習などでの利用にあたって映像をどのように表現するかは、質疑応答をはじめとする様々なタスクにおいて主要な研究課題となっています。特に、視覚と自然言語を入力とするタスクでは、モデルが自然言語ばかり注目するような現象もあるようで、難しい問題です。このプロジェクトでは、映像をテキストで表現するアプローチ（キャプション生成のような教師ありの手法ではなく、映像から必要なオブジェクトなどを検出してルールベースでテキストを生成する手法）を採用し、既存手法と比較しています。この成果は、コンピュータビジョン分野のトップカンファレンスの一つである&lt;a href=&#34;https://eccv2020.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECCV 2020&lt;/a&gt;で発表しました。&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KCUUvSpf-Qo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br/&gt;
+&lt;p&gt;関連した研究として、絵画に関するQAについても取り組んでいます。&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/I78SoOkH3dM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Noa Garcia, Chentao Ye, Zihua Liu, Qingtao Hu, Mayu Otani, Chenhui Chu, Yuta Nakashima, and Teruko Mitamura (2020). &lt;a href=&#34;https://arxiv.org/abs/2008.12520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Dataset and Baselines for Visual Question Answering on Art&lt;/a&gt;. Proc. European Computer Vision Conference Workshops.&lt;/li&gt;
+&lt;li&gt;Noa Garcia and Yuta Nakashima (2020). &lt;a href=&#34;https://arxiv.org/abs/2007.08751&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knowledge-Based VideoQA with Unsupervised Scene Descriptions&lt;/a&gt;. Proc. European Conference on Computer Vision.&lt;/li&gt;
+&lt;li&gt;Noa Garcia, Mayu Otani, Chenhui Chu, and Yuta Nakashima (2020). KnowIT VQA: Answering knowledge-based questions about videos. Proc. AAAI Conference on Artificial Intelligence.&lt;/li&gt;
+&lt;li&gt;Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2020). BERT representations for video question answering. Proc. IEEE Winter Conference on Applications of Computer Vision.&lt;/li&gt;
+&lt;li&gt;Noa Garcia, Chenhui Chu, Mayu Otani, and Yuta Nakashima (2019). Video meets knowledge in visual question answering. MIRU.&lt;/li&gt;
+&lt;li&gt;Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2019). Video question answering with BERT. MIRU.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>仏顔とAI</title>
+      <link>/ja/project/buddha-face/</link>
+      <pubDate>Wed, 17 Jun 2020 22:52:41 +0900</pubDate>
+      <guid>/ja/project/buddha-face/</guid>
+      <description>&lt;p&gt;大阪大学 文学研究科の&lt;a href=&#34;http://www.dma.jim.osaka-u.ac.jp/view?l=ja&amp;amp;u=6617&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;藤岡 穣 教授&lt;/a&gt;との共同研究では、仏像の顔に着目して、その仏像に関する様々な側面を解析する研究を実施しています。&lt;/p&gt;
+&lt;p&gt;仏像の顔（仏顔）には、その地域や時代、作家に関する様々な情報が含まれると考えられます。我々は、統計的、機械学習的手法を用いて、仏顔の画像や3次元形状のデータから仏像の系統図を構築します。これは、専門家の主観や経験によらず、純粋にデータから得られた知識を利用して様式判定を実現することに繋がり、仏像に関する研究のグローバル化や、仏像の系統の特定からアジア圏の文化がどのようにシルクロードを伝播したかについて、さらなる知見を与える可能性を持つ。&lt;/p&gt;
+&lt;p&gt;この目的に向けて、ISLabでは解析に利用可能なより高度なモデルの学習のためのメタデータ収集を容易にしつつ、大量の仏顔画像コーパスをブラウジングするための新しいインターフェイスを開発した。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/buddha-face/interfaces_hu412127b82145130d68f689675871a563_688796_718403a863445329e52e4b3c12be1058.webp 400w,
+               /ja/project/buddha-face/interfaces_hu412127b82145130d68f689675871a563_688796_08ff27fa6449dcd9f195778c4a1056d7.webp 760w,
+               /ja/project/buddha-face/interfaces_hu412127b82145130d68f689675871a563_688796_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/ja/project/buddha-face/interfaces_hu412127b82145130d68f689675871a563_688796_718403a863445329e52e4b3c12be1058.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;172&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;また、対象の画像を機械学習モデルで解釈する際に利用される画像の表現方法として、作者や時代、作成場所などの情報を画像と併せてベクトル表現するアプローチを開発した。このベクトル表現は、分類モデルなどに直接利用が可能となる。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/buddha-face/contextnet_hu255c0008cb8fe6340d26b769ee3d244e_313842_52143b64e349f18927529a122f35df3e.webp 400w,
+               /ja/project/buddha-face/contextnet_hu255c0008cb8fe6340d26b769ee3d244e_313842_7ac82abcd6d3a1d794884f42faae8dec.webp 760w,
+               /ja/project/buddha-face/contextnet_hu255c0008cb8fe6340d26b769ee3d244e_313842_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/ja/project/buddha-face/contextnet_hu255c0008cb8fe6340d26b769ee3d244e_313842_52143b64e349f18927529a122f35df3e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;336&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>KnowIT VQA: Answering knowledge-based questions about videos</title>
+      <link>/ja/publication/garcia-2020-a/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/garcia-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BERT representations for video question answering</title>
+      <link>/ja/publication/yang-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ContextNet: representation and exploration for painting classification and retrieval in context</title>
+      <link>/ja/publication/garcia-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/garcia-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-aware embeddings for automatic art analysis</title>
+      <link>/ja/publication/garcia-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/garcia-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video meets knowledge in visual question answering</title>
+      <link>/ja/publication/noa-garcia-chenhui-chu-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/noa-garcia-chenhui-chu-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Topics | ISLab, Osaka University</title>
+    <link>/ja/topics/</link>
+      <atom:link href="/ja/topics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Topics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hu395f5bc88680994b3144d9b1afedc509_9245_300x300_fit_lanczos_3.png</url>
+      <title>Research Topics</title>
+      <link>/ja/topics/</link>
+    </image>
+    
+    <item>
+      <title>Computational Photography</title>
+      <link>/ja/topics/cp/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/topics/cp/</guid>
+      <description>&lt;p&gt;Conventional cameras mimic human vision system and capture an image that can be understood by humans. However, it is not always necessarily to take human understandable image in computer vision tasks.  Computational photography rethink the whole pipeline of computer vision system including hardware such as optics, sensors and software processing in order to solve the target task. We are developing new cameras and processing to obtain high-quality images and videos, reconstruct an object shape and understand a scene.&lt;/p&gt;
+&lt;h2 id=&#34;inverse-scattering&#34;&gt;Inverse Scattering&lt;/h2&gt;
+&lt;p&gt;We propose an inverse rendering model that estimates 3D shape, spatially-varying reflectance, homogeneous subsurface scattering parameters, and an environment illumination jointly from only a pair of captured images of a translucent object. In order to solve the ambiguity problem of inverse rendering, we use a physically-based renderer and a neural renderer for scene reconstruction and material editing. Because two renderers are differentiable, we can compute a reconstruction loss to assist parameter estimation. To enhance the supervision of the proposed neural renderer, we also propose an augmented loss. In addition, we use a flash and no-flash image pair as the input. To supervise the training, we constructed a large-scale synthetic dataset of translucent objects, which consists of 117K scenes. Qualitative and quantitative results on both synthetic and real-world datasets demonstrated the effectiveness of the proposed model. For more detail, please check our &lt;a href=&#34;https://ligoudaner377.github.io/homo_translucent/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project website&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-given-a-flash-and-no-flash-image-pair-of-translucent-objects-our-model-jointly-estimates-sss-parameters-surface-normal-depth-roughness-and-illumination&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Given a flash and no-flash image pair of translucent objects, our model jointly estimates SSS parameters, surface normal, depth, roughness, and illumination.&#34; srcset=&#34;
+               /media/inverse_scattering_hufee9ebc8cc66a9df47f7a7303ae4d301_3471316_5f884909f16ea4fb3bc6878ef8b53721.webp 400w,
+               /media/inverse_scattering_hufee9ebc8cc66a9df47f7a7303ae4d301_3471316_43757163a18eb689bdcf88993e0232be.webp 760w,
+               /media/inverse_scattering_hufee9ebc8cc66a9df47f7a7303ae4d301_3471316_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/inverse_scattering_hufee9ebc8cc66a9df47f7a7303ae4d301_3471316_5f884909f16ea4fb3bc6878ef8b53721.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;338&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Given a flash and no-flash image pair of translucent objects, our model jointly estimates SSS parameters, surface normal, depth, roughness, and illumination.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;compressive-video-sensing&#34;&gt;Compressive Video Sensing&lt;/h2&gt;
+&lt;p&gt;There is a trade-off between spatial and temporal resolution of the camera, for examples. the spatial resolution of high-speed camera is often lower than that of still camera, and the frame rate of still camera is lower than that of video camera. This trade-off comes from sensor readout limit, and it is not drastically improved by sensor technology. Compressive sensing is the different approach to solve this problem. It sparsely samples the video by using random exposures of the sensor and reconstruct the full resolution and frames of the video as post-processing. We have demonstrated to reconstruct the x16 higher fps video (240fps) from the 15 fps sensor. We studied to optimize the exposure pattern of sparse sampling for the better reconstruction under the feasible exposure controls of the sensor. We also proposed deep sensing framework that simultaneously optimizes the best exposure pattern and reconstruction model by using end-to-end leaning of deep neural network.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-reconstructing-video-from-single-coded-image&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Reconstructing video from single coded image&#34; srcset=&#34;
+               /media/cvs_hu71a8a8d174ca476f6ebeb75f0bd854bb_295438_dae2b3ccb45df249ea7942f50ee131a9.webp 400w,
+               /media/cvs_hu71a8a8d174ca476f6ebeb75f0bd854bb_295438_8a281ffbdb7e2d6029ddfc4c308a80c6.webp 760w,
+               /media/cvs_hu71a8a8d174ca476f6ebeb75f0bd854bb_295438_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/cvs_hu71a8a8d174ca476f6ebeb75f0bd854bb_295438_dae2b3ccb45df249ea7942f50ee131a9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;276&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Reconstructing video from single coded image
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;action-recognition-from-a-single-coded-image&#34;&gt;Action Recognition from a Single Coded Image&lt;/h2&gt;
+&lt;p&gt;There is an increasing demand to analyze human actions from these cameras to detect unusual behavior or within a man-machine interface for Internet of Things (IoT) devices. The action recognition uses a video for analyzing a motion of a scene. Compressive video sensing uses a coded exposure image which containing different time of the scene information. We tackled the problem that It is possible to recognize an action in a scene from the single coded image. We proposed reconstruction-free action recognition from the single coded exposure image. We used deep sensing framework which models camera sensing and classification models into convolutional neural network (CNN) and jointly optimize the coded exposure pattern and classification model simultaneously. We demonstrated that the proposed method can recognize human actions from only the single image. We also compared it with competitive inputs, such as low-resolution video with a high frame rate and high-resolution video with a single frame in simulation and real experiments.
+The detail is in &lt;a href=&#34;https://youtu.be/yDBU-3Ag3bQ?t=1970&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the youtube presentation video&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-by-recognizing-action-from-single-coded-image-the-amount-of-data-can-be-reduced-while-maintaining-the-recognition-accuracy&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;By recognizing action from single coded image, the amount of data can be reduced while maintaining the recognition accuracy&#34; srcset=&#34;
+               /media/ar_hud02fec28cb8deea1651c31c3589d2ea9_276204_91ccc1ffdd3dd0ea2d0b069d0e8cf71a.webp 400w,
+               /media/ar_hud02fec28cb8deea1651c31c3589d2ea9_276204_b1653dbeb5644fbcac7400391c92be50.webp 760w,
+               /media/ar_hud02fec28cb8deea1651c31c3589d2ea9_276204_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/ar_hud02fec28cb8deea1651c31c3589d2ea9_276204_91ccc1ffdd3dd0ea2d0b069d0e8cf71a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;305&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      By recognizing action from single coded image, the amount of data can be reduced while maintaining the recognition accuracy
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;compressive-light-field-sensing&#34;&gt;Compressive Light Field Sensing&lt;/h2&gt;
+&lt;p&gt;Light field is used for computer graphics and vision applications, such as free-view display, digital re-focusing, 3D reconstruction and object recognition etc. The image has multiple 2D images with different viewpoints simultaneously. Light field usually captured by camera array or micro-lens array camera. It is difficult to capture a high resolution of light field and not usually affordable to take a video, since the sensor the amount of the data is so huge from the high dimensional nature of light field. We proposed a compressive light field sensing which effectively acquire and reconstruct the light field. We used programmable aperture camera to capture a few coded images with different aperture patterns, then reconstruct full light field with dense view point. We also realized the 5D light field video acquisition and reconstruction. For more detail, please see &lt;a href=&#34;https://www.fujii.nuee.nagoya-u.ac.jp/~takahasi/Research/CompCam/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the project page&lt;/a&gt;.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-compressive-light-field-sensing-by-coded-aperture-camera&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Compressive light field sensing by coded aperture camera&#34; srcset=&#34;
+               /media/cnn-diagram_hub0be4779028fed4cd098913d5b7016f3_694210_99a92b2edf980cbccbf28a88182294c5.webp 400w,
+               /media/cnn-diagram_hub0be4779028fed4cd098913d5b7016f3_694210_8f69bb59453dfa5514c0333b998d4783.webp 760w,
+               /media/cnn-diagram_hub0be4779028fed4cd098913d5b7016f3_694210_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/cnn-diagram_hub0be4779028fed4cd098913d5b7016f3_694210_99a92b2edf980cbccbf28a88182294c5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Compressive light field sensing by coded aperture camera
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;light-field-segmentation&#34;&gt;Light Field Segmentation&lt;/h2&gt;
+&lt;p&gt;We proposed a supervised four-dimensional (4D) light field segmentation method that uses a graph-cut algorithm. Since 4D light field data has implicit depth information and contains redundancy, it differs from simple 4D hyper-volume. In order to preserve redundancy, we define two neighboring ray types (spatial and angular) in light field data. To obtain higher segmentation accuracy, we also design a learning-based likelihood, called objectness, which utilizes appearance and disparity cues. We show the effectiveness of our method via numerical evaluation and some light field editing applications using both synthetic and real-world light fields.
+For more detail, please see &lt;a href=&#34;http://omilab.naist.jp/project/LFseg/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the project page&lt;/a&gt;.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-4d-light-field-segmentation&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;4D light field segmentation&#34; srcset=&#34;
+               /media/teaser_huddcc5782814686b0ed55bc50c4f600db_1306412_24f415190a7d641e57cd8a2fa98adb8a.webp 400w,
+               /media/teaser_huddcc5782814686b0ed55bc50c4f600db_1306412_1aa5fa9178b32787bf68f15cacf2e873.webp 760w,
+               /media/teaser_huddcc5782814686b0ed55bc50c4f600db_1306412_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/teaser_huddcc5782814686b0ed55bc50c4f600db_1306412_24f415190a7d641e57cd8a2fa98adb8a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;609&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      4D light field segmentation
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;object-shape-and-reflectance-reconstruction-from-light-field&#34;&gt;Object Shape and Reflectance reconstruction from Light Field&lt;/h2&gt;
+&lt;p&gt;Reflectance and shape are two important components in visually perceiving the real world. Inferring the reflectance and　shape of an object through cameras is a fundamental research topic in the field of computer vision. While three-dimensional
+shape recovery is pervasive with varieties of approaches and practical applications, reflectance recovery has only emerged recently. Reflectance recovery is a challenging task that is usually conducted in controlled environments, such as a laboratory
+environment with a special apparatus. However, it is desirable that the reflectance be recovered in the field with a handy camera so that reflectance can be jointly recovered with the shape. To that end, we present a solution that simultaneously recovers the
+reflectance and shape (i.e., dense depth and normal maps) of an object under natural illumination with commercially available handy cameras. We employ a light field camera to capture one light field image of the object, and a 360-degree camera to
+capture the illumination. The proposed method provides positive results in both simulation and real-world experiments.&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-shape-and-reflectance-reconstruction-from-light-field&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shape and Reflectance reconstruction from Light Field&#34; srcset=&#34;
+               /media/LF_SR_hu5114784318b4c1aec0dd3ac697c27c04_170669_dbd1deba460abd5136950225543d2290.webp 400w,
+               /media/LF_SR_hu5114784318b4c1aec0dd3ac697c27c04_170669_c7438a86038e637cdb93f0d398322df1.webp 760w,
+               /media/LF_SR_hu5114784318b4c1aec0dd3ac697c27c04_170669_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/LF_SR_hu5114784318b4c1aec0dd3ac697c27c04_170669_dbd1deba460abd5136950225543d2290.webp&#34;
+               width=&#34;725&#34;
+               height=&#34;364&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Shape and Reflectance reconstruction from Light Field
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;transparent-object-recognition-using-light-field&#34;&gt;Transparent Object Recognition using Light Field&lt;/h2&gt;
+&lt;p&gt;Recognizing the object category and detecting a certain object in the image are two important object recognition tasks, but previous appearance-based methods cannot deal with the transparent objects since the appearance of a transparent object dramatically changes when the background varies. Our proposed methods overcome previous problems using the novel features extracted from a light-field image. We propose a light field distortion (LFD) feature, which is background-invariant, for transparent object recognition. Light field linearity (LF-linearity) is proposed to measure the likelihood of a point comes from the transparent object or not. The occlusion detector is designed to locate the occlusion boundary in the light field image.
+Transparent object categorization is performed by incorporating the LFD feature into the bag-of-features approach for recognizing the category of transparent object. Transparent object segmentation is realized by solving the pixel labeling problem. An energy function is defined and Graph-cut algorithm is applied for optimizing the pixel labeling problem. The regional term and boundary term are from the LF-linearity and occlusion detector output. Light field datasets (available by request) are acquired for the transparent object categorization and segmentation. The results demonstrate that the proposed methods successfully categorize and segment transparent objects from a light field image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-recognition-of-transparent-object-using-a-light-field-distortion-lfd-feature&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Recognition of transparent object using a light field distortion (LFD) feature&#34; srcset=&#34;
+               /media/0060a_huca362bdac1429586a17477e8cc19f229_77354_12aa793ebf67b7844ef58bfae234c3ac.webp 400w,
+               /media/0060a_huca362bdac1429586a17477e8cc19f229_77354_6c57e1e6399af19a2065aa5614e61136.webp 760w,
+               /media/0060a_huca362bdac1429586a17477e8cc19f229_77354_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/0060a_huca362bdac1429586a17477e8cc19f229_77354_12aa793ebf67b7844ef58bfae234c3ac.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;310&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Recognition of transparent object using a light field distortion (LFD) feature
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;shape-from-shading-and-polarization&#34;&gt;Shape from Shading and Polarization&lt;/h2&gt;
+&lt;p&gt;There are a lot of cues for letting us the 3D object shape from an image. We introduced a method to recover the shape from shading and polarization. This is motivated by the
+fact that photometric stereo and polarization-based methods have complementary abilities. The polarization-based method can give strong cues for the surface orientation and
+refractive index, which are independent of the light source direction. However, it has ambiguities between two possible choices of the surface orientation. In contrast, photometric stereo method can disambiguate the surface orientation
+and give a strong relationship between the surface normals and light source directions. However, it has limited performance for large zenith angles, refractive index estimation. Taking their advantages, our proposed method can recover the shape for both small and large zenith angles, the light source directions, and the refractive indices of the object. The proposed method is successfully evaluated by simulation and real-world experiments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-shape-from-shading-and-polarization&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Shape from Shading and Polarization&#34; srcset=&#34;
+               /media/PS_hu6fcdca58a2036a4a4885d9ebfa8055d4_283404_44baa2572f5641d3932db7d50d6f7c0e.webp 400w,
+               /media/PS_hu6fcdca58a2036a4a4885d9ebfa8055d4_283404_d34636ccb77b2c68d57a691cecc777ae.webp 760w,
+               /media/PS_hu6fcdca58a2036a4a4885d9ebfa8055d4_283404_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/PS_hu6fcdca58a2036a4a4885d9ebfa8055d4_283404_44baa2572f5641d3932db7d50d6f7c0e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;170&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Shape from Shading and Polarization
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;coded-aperture-camera&#34;&gt;Coded Aperture Camera&lt;/h2&gt;
+&lt;p&gt;It is widely known that the camera aperture adjusts the amount of light and controls the point spread function (PSF) of the camera imaging system. Coded aperture imaging engineers the PSF by special aperture shapes. It has attracted a lot of attention in recent years. Traditional coded aperture imaging is achieved by inserting a cutout cardboard or printed photo-mask into the lens and, therefore, does not allow the pattern to be changed easily. While various aperture patterns have been proposed in the applications for image deblurring, depth estimation based on defocused scene images (depth from defocus), and light-field imaging, the optimal aperture depends on the shooting conditions, such as lighting and scene context. Some applications also require a combination of two or more patterns. In this study, we developed a programmable aperture camera that uses a liquid crystal on silicon (LCoS) to actively set the aperture pattern. This programmable aperture camera is able to adaptively capture an image with apertures suitable for individual scenes and shooting conditions. Also, the camera can capture a light-field image at high speed. To consider imaging by utilizing the programmability of the camera, we are searching for newer coded imaging techniques and applications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-optical-system-with-controllable-the-point-spread-function-psf&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Optical system with controllable the point spread function (PSF)&#34; srcset=&#34;
+               /media/0036a_hu3d91f52c25f9eab0cda35f863980f20d_59342_699546ad4d2df1669d76eff102ff8529.webp 400w,
+               /media/0036a_hu3d91f52c25f9eab0cda35f863980f20d_59342_0d9e192cc7f2b93975a90e95ca008404.webp 760w,
+               /media/0036a_hu3d91f52c25f9eab0cda35f863980f20d_59342_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/media/0036a_hu3d91f52c25f9eab0cda35f863980f20d_59342_699546ad4d2df1669d76eff102ff8529.webp&#34;
+               width=&#34;499&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Optical system with controllable the point spread function (PSF)
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;focus-sweep-camera&#34;&gt;Focus-sweep Camera&lt;/h2&gt;
+&lt;p&gt;We developed a focus-sweep camera capable of engineering the point spread function (PSF) of the camera by controlling the focus of the lens. We propose focus-sweep imaging, which produces a superimposed image with different size blurring by moving the imaging device or lens along the optical axis during exposure. Unlike coded aperture imaging, focus-sweep imaging can control the PSF with an open-up aperture and, therefore, has the advantage that it can produce images with a higher SN ratio. By using different combinations of sweeping trajectories and exposure timings of imaging devises, we successfully implemented a variety of imaging techniques and applications, including extended depth of field, depth from defocuses, tilted depth of field, discontinuous depth of field, and curved depth of field. The traditional coded imaging technique requires a special lens and aperture. On the other hand, focus-sweep imaging, which controls the point spread function by changing the lens focus, can use the auto-focus mechanism, which consumer cameras already have. For this reason, we believe that focus-sweep imaging is practical and feasible. This study was conducted in collaboration with Columbia University. For more information, see &lt;a href=&#34;https://www.cs.columbia.edu/CAVE/projects/flexible_dof/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this page&lt;/a&gt;.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-control-the-point-spread-function-psf-by-moving-the-lens-along-the-optical-axis-during-the-exposure&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Control the point spread function (PSF) by moving the lens along the optical axis during the exposure.&#34; srcset=&#34;
+               /media/0037a_hu30fc29775d51ccbb697518f2faa1efd0_343669_eab9827f79f08d2706946f3247e4c510.webp 400w,
+               /media/0037a_hu30fc29775d51ccbb697518f2faa1efd0_343669_0773845bff609b375d5765fe69189dad.webp 760w,
+               /media/0037a_hu30fc29775d51ccbb697518f2faa1efd0_343669_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/0037a_hu30fc29775d51ccbb697518f2faa1efd0_343669_eab9827f79f08d2706946f3247e4c510.webp&#34;
+               width=&#34;401&#34;
+               height=&#34;600&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Control the point spread function (PSF) by moving the lens along the optical axis during the exposure.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vision and Language</title>
+      <link>/ja/topics/vnlp/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/topics/vnlp/</guid>
+      <description>&lt;p&gt;Since the dawn of deep neural network-related technologies, the combination of vision and language modalities has become one of the mainstream research areas in both computer vision and natural language processing communities. We have been working on the following topics in this area.&lt;/p&gt;
+&lt;h2 id=&#34;explain-me-the-painting-multi-topic-knowledgeable-art-description-generation&#34;&gt;Explain Me the Painting: Multi-Topic Knowledgeable Art Description Generation&lt;/h2&gt;
+&lt;p&gt;Have you ever looked at a painting and wondered what is the story behind it? This work presents a framework to bring art closer to people by generating comprehensive descriptions of fine-art paintings. Generating informative descriptions for artworks, however, is extremely challenging, as it requires to 1) describe multiple aspects of the image such as its style, content, or composition, and 2) provide background and contextual knowledge about the artist, their influences, or the historical period. To address these challenges, we introduce a multi-topic and knowledgeable art description framework, which modules the generated sentences according to three artistic topics and, additionally, enhances each description with external knowledge. The framework is validated through an exhaustive analysis, both quantitative and qualitative, as well as a comparative human evaluation, demonstrating outstanding results in terms of both topic diversity and information veracity.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/lRtyhIHyZFw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You can find more details including the paper and code &lt;a href=&#34;https://sites.google.com/view/art-description-generation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;uncovering-hidden-challenges-in-query-based-video-moment-retrieval&#34;&gt;Uncovering Hidden Challenges in Query-based Video Moment Retrieval&lt;/h2&gt;
+&lt;p&gt;The query-based moment retrieval is a problem of localising a specific clip from an untrimmed video according a query sentence. This is a challenging task that requires interpretation of both the natural language query and the video content. Like in many other areas in computer vision and machine learning, the progress in query-based moment retrieval is heavily driven by the benchmark datasets and, therefore, their quality has significant impact on the field. In this paper, we present a series of experiments assessing how well the benchmark results reflect the true progress in solving the moment retrieval task. Our results indicate substantial biases in the popular datasets and unexpected behaviour of the state-of-the-art models. Moreover, we present new sanity check experiments and approaches for visualising the results. Finally, we suggest possible directions to improve the temporal sentence grounding in the future.&lt;/p&gt;
+&lt;p&gt;You can find more detail with the code and results &lt;a href=&#34;https://mayu-ot.github.io/hidden-challenges-MR/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/4xYcR42atws&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;a-dataset-and-baselines-for-visual-question-answering-on-art&#34;&gt;A dataset and baselines for visual question answering on art&lt;/h2&gt;
+&lt;p&gt;Answering questions related to art pieces (paintings) is a difficult task, as it implies the understanding of not only the visual information that is shown in the picture, but also the contextual knowledge that is acquired through the study of the history of art. In this work, we introduce our first attempt towards building a new dataset, coined AQUA (Art QUestion Answering). The question-answer (QA) pairs are automatically generated using state-of-the-art question generation methods based on paintings and comments provided in an existing art understanding dataset. The QA pairs are cleansed by crowdsourcing workers with respect to their grammatical correctness, answerability, and answers&amp;rsquo; correctness. Our dataset inherently consists of visual (painting-based) and knowledge (comment-based) questions. We also present a two-branch model as baseline, where the visual and knowledge questions are handled independently. We extensively compare our baseline model against the state-of-the-art models for question answering, and we provide a comprehensive study about the challenges and potential future directions for visual question answering on art.&lt;/p&gt;
+&lt;p&gt;The dataset and code will be available soon.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/I78SoOkH3dM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;visual-question-answering-with-knowledge&#34;&gt;Visual question answering with knowledge&lt;/h2&gt;
+&lt;p&gt;Visual question answering is a popular research topic recently, and many papers have been published. As its name suggests, this task explores a system that can answer a question on a given input image, which means that the answer should appear in the image.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-various-questions-on-video-including-knowledge-based-one&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Various questions on video, including knowledge-based one.&#34; srcset=&#34;
+               /media/topics-vnlp-knowledgevqa_hu673845dfb6226d94893434a863f81ffa_818024_f77fa18639cb0c88ba3cf86d594bd5ac.webp 400w,
+               /media/topics-vnlp-knowledgevqa_hu673845dfb6226d94893434a863f81ffa_818024_b90e960a7088971f97afe3d6b70e1fa2.webp 760w,
+               /media/topics-vnlp-knowledgevqa_hu673845dfb6226d94893434a863f81ffa_818024_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/topics-vnlp-knowledgevqa_hu673845dfb6226d94893434a863f81ffa_818024_f77fa18639cb0c88ba3cf86d594bd5ac.webp&#34;
+               width=&#34;500&#34;
+               height=&#34;641&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;図&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Various questions on video, including knowledge-based one.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;In this work, we propose a novel video understanding task by fusing knowledge-based and video question answering. First, we introduce KnowIT VQA, a video dataset with 24,282 human-generated question-answer pairs about a popular sitcom. The dataset combines visual, textual, and temporal coherence reasoning with knowledge-based questions, which need the experience obtained from the viewing of the series to be answered. Second, we propose a video understanding model by combining the visual and textual video content with specific knowledge about the show. Our main findings are: (i) the incorporation of knowledge produces outstanding improvements for VQA in videos, and (ii) the performance on KnowIT VQA still lags well behind human accuracy, indicating its usefulness for studying current video modeling limitations.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-model-for-addressing-the-knowledge-vqa-task&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our model for addressing the knowledge VQA task.&#34; srcset=&#34;
+               /media/topics-vnlp-kvqa_model_hu8dd17e745662692711c5f00b1796e704_428142_4d36a217bc836645d8d5b683635fd234.webp 400w,
+               /media/topics-vnlp-kvqa_model_hu8dd17e745662692711c5f00b1796e704_428142_ae2f67511f46038873bc9dcb2dd55887.webp 760w,
+               /media/topics-vnlp-kvqa_model_hu8dd17e745662692711c5f00b1796e704_428142_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/topics-vnlp-kvqa_model_hu8dd17e745662692711c5f00b1796e704_428142_4d36a217bc836645d8d5b683635fd234.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;198&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;図&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our model for addressing the knowledge VQA task.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;Our dataset is available &lt;a href=&#34;https://knowit-vqa.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;unsupervised-scene-descriptions-for-knowledge-video-qa&#34;&gt;Unsupervised scene descriptions for Knowledge Video-QA&lt;/h2&gt;
+&lt;p&gt;Tounderstandmovies, humans constantly reason over the dialogues and actions shown in specific scenes and relate them to the overall storyline already seen. Inspired by this behaviour, we design ROLL, a model for knowledge-based video story question answering that leverages three crucial aspects of movie understanding: dialog comprehension, scene reasoning, and storyline recalling. In ROLL, each of these tasks is in charge of extracting rich and diverse information by 1) processing scene dialogues, 2) generating unsupervised video scene descriptions, and 3) obtaining external knowledge in a weakly supervised fashion. To answer a given question correctly, the information generated by each inspired-cognitive task is encoded via Transformers and fused through a modality weighting mechanism, which balances the information from the different sources. Exhaustive evaluation demonstrates the effectiveness of our approach, which yields a new state-of-the-art on two challenging video question answering datasets: KnowIT VQA and TVQA+.&lt;/p&gt;
+&lt;p&gt;These results are published at ECCV.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KCUUvSpf-Qo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;visually-grounded-paraphrases&#34;&gt;Visually grounded paraphrases&lt;/h2&gt;
+&lt;p&gt;Visually grounded paraphrases (VGPs) describe the same visual concept but in different wording.
+Previous studies have developed models to identify VGPs from language and visual features.
+In these existing methods, language and visual features are simply fused.
+However, our detailed analysis indicates that VGPs with different lexical similarities require different weights on language and visual features to maximize identification performance.
+This motivates us to propose a gated neural network model to adaptively control the weights.
+In addition, because VGP identification is closely related to phrase localization, we also propose a way to explicitly incorporate phrase-object correspondences.
+From our evaluation in detail, we confirmed our model outperforms the state-of-the-art model.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-examples-of-a-vgp-and-non-vgp&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Examples of a VGP and non-VGP.&#34; srcset=&#34;
+               /media/topics-vnlp-vgp_hud38fca74bb46ad448c3e17c9c98a1714_201563_ef99b6edfba98191a5e5dc044b9e9fa2.webp 400w,
+               /media/topics-vnlp-vgp_hud38fca74bb46ad448c3e17c9c98a1714_201563_1e65a1eb414bd581fd389a59fb817ba0.webp 760w,
+               /media/topics-vnlp-vgp_hud38fca74bb46ad448c3e17c9c98a1714_201563_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/topics-vnlp-vgp_hud38fca74bb46ad448c3e17c9c98a1714_201563_ef99b6edfba98191a5e5dc044b9e9fa2.webp&#34;
+               width=&#34;600&#34;
+               height=&#34;349&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;図&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Examples of a VGP and non-VGP.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;transformer-based-models-for-visual-question-answering&#34;&gt;Transformer-based models for visual question answering&lt;/h2&gt;
+&lt;p&gt;Visual question answering (VQA) aims at answering questions about the visual content of an image or a video. Currently, most work on VQA is focused on image-based question answering, and less attention has been paid into answering questions about videos. However, VQA in video presents some unique challenges that are worth studying: it not only requires to model a sequence of visual features over time but often it also needs to reason about associated subtitles. In this work, we propose to use BERT, a sequential modeling technique based on Transformers, to encode the complex semantics from video clips. Our proposed model jointly captures the visual and language information of a video scene by encoding not only the subtitles but also a sequence of visual concepts with a pre-trained language-based Transformer. In our experiments, we exhaustively study the performance of our model by taking different input arrangements, showing outstanding improvements when compared against previous work on two well-known video VQA datasets: TVQA and Pororo.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-vqa-with-a-bert-pretrained-model&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;VQA with a BERT pretrained model.&#34; srcset=&#34;
+               /media/topics-vnlp-bert_hu9c982df18d839d08008aee61c38d8132_341721_8fe7e70eaaac2bb6946f71136c77904b.webp 400w,
+               /media/topics-vnlp-bert_hu9c982df18d839d08008aee61c38d8132_341721_bcf77438213378b0824ead2716307891.webp 760w,
+               /media/topics-vnlp-bert_hu9c982df18d839d08008aee61c38d8132_341721_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/topics-vnlp-bert_hu9c982df18d839d08008aee61c38d8132_341721_8fe7e70eaaac2bb6946f71136c77904b.webp&#34;
+               width=&#34;500&#34;
+               height=&#34;557&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;図&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      VQA with a BERT pretrained model.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;video-summarization&#34;&gt;Video summarization&lt;/h2&gt;
+&lt;p&gt;Video summarization is a technique to create a short skim of the original video while preserving the main stories/content. There exists a substantial interest in automatizing this process due to the rapid growth of the available material. The recent progress has been facilitated by public benchmark datasets, which enable easy and fair comparison of methods. Currently, the established evaluation protocol is to compare the generated summary with respect to a set of reference summaries provided by the dataset. In this paper, we will provide an in-depth assessment of this pipeline using two popular benchmark datasets. Surprisingly, we observe that randomly generated summaries achieve comparable or better performance to the state-of-the-art. In some cases, the random summaries outperform even the human-generated summaries in leave-one-out experiments. Moreover, it turns out that the video segmentation, which is often considered as a fixed pre-processing method, has the most significant impact on the performance measure. Based on our observations, we propose alternative approaches for assessing the importance scores as well as an intuitive visualization of correlation between the estimated scoring and human annotations.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-a-typical-pipeline-for-video-summarization-and-its-randomization-test&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A typical pipeline for video summarization and its randomization test.&#34; srcset=&#34;
+               /media/topics-vnlp-vsum_huabf0a9c62eab73140a32fd4d17781e53_449838_de03e71d7e502b672522145d93a692e6.webp 400w,
+               /media/topics-vnlp-vsum_huabf0a9c62eab73140a32fd4d17781e53_449838_b999efb49f3f362a52da57b2d07a5aaa.webp 760w,
+               /media/topics-vnlp-vsum_huabf0a9c62eab73140a32fd4d17781e53_449838_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/topics-vnlp-vsum_huabf0a9c62eab73140a32fd4d17781e53_449838_de03e71d7e502b672522145d93a692e6.webp&#34;
+               width=&#34;500&#34;
+               height=&#34;699&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;図&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      A typical pipeline for video summarization and its randomization test.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Social/Human Sensing</title>
+      <link>/ja/topics/sensing/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/ja/topics/sensing/</guid>
+      <description>&lt;h2 id=&#34;facial-expression-recognition&#34;&gt;Facial expression recognition&lt;/h2&gt;
+&lt;p&gt;Deep convolutional neural networks (CNNs) have established their feet in the ground of computer vision and machine learning, used in various applications. In this work, an attempt is made to learn a CNN for a task of facial expression recognition (FER). Our network has convolutional layers linked with an FC layer with a skip-connection to the classification layer. The motivation behind this design is that lower layers of a CNN are responsible for lower-level features, and facial expressions can be mainly encoded in low-to-mid level features. Hence, in order to leverage the responses from lower layers, all convolutional layers are integrated via FC layers. Moreover, a network with shared parameters is used to extract landmark motion trajectory features.
+These visual and landmark features are fused to improve performance. Our method is evaluated on the CK+ and Oulu-CASIA facial expression datasets.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-our-model-for-facial-expression-recognition-with-skip-connections&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Our model for facial expression recognition with skip-connections.&#34; srcset=&#34;
+               /media/topics-sensing-face_exp_huf0cee9ac167b7fed31b267f3b6944c0f_167304_1443639f9fce22f1d79108019e87318c.webp 400w,
+               /media/topics-sensing-face_exp_huf0cee9ac167b7fed31b267f3b6944c0f_167304_f733f280577e894825787a0007ca6392.webp 760w,
+               /media/topics-sensing-face_exp_huf0cee9ac167b7fed31b267f3b6944c0f_167304_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/topics-sensing-face_exp_huf0cee9ac167b7fed31b267f3b6944c0f_167304_1443639f9fce22f1d79108019e87318c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;447&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;図&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Our model for facial expression recognition with skip-connections.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&#34;learning-efficiency-prediction-from-eye-trajectories&#34;&gt;Learning efficiency prediction from eye trajectories&lt;/h2&gt;
+&lt;p&gt;Estimating how much a learner is engaged, concentrates, and comprehends a topic, which we call learners&amp;rsquo; efficiency, is an essential step towards adaptive e-learning to automatically adjust the content or suggest resting. We explore the first step toward estimating learners&amp;rsquo; efficiency with a certain learning task. From various possible signals, we choose eye trajectories captured by an eye tracker as eye trajectories are one of the modalities that can be directly affected by the learner’s status. We formulate the learners&amp;rsquo; efficiency estimation as a binary classification problem and solve it with a deep neural network. We show that predicting learners&amp;rsquo; efficiency is possible from eye trajectories, at least for a certain learning-related task at AUC of 70%. Performance varies learner by learner.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Medical Imaging</title>
+      <link>/ja/topics/mi/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/topics/mi/</guid>
+      <description>&lt;p&gt;Medical imaging is an active research area toward computer-aided diagnosis. We are working on the following projects.&lt;/p&gt;
+&lt;h2 id=&#34;scouter-slot-attention-based-classifier-for-explainable-image-recognition&#34;&gt;SCOUTER: Slot Attention-based Classifier for Explainable Image Recognition&lt;/h2&gt;
+&lt;p&gt;Explainable artificial intelligence has been gaining attention in the past few years. However, most existing methods are based on gradients or intermediate features, which are not directly involved in the decision-making process of the classifier. In this paper, we propose a slot attention-based classifier called SCOUTER for transparent yet accurate classification. Two major differences from other attention-based methods include: (a) SCOUTER&amp;rsquo;s explanation is involved in the final confidence for each category, offering more intuitive interpretation, and (b) all the categories have their corresponding positive or negative explanation, which tells &amp;ldquo;why the image is of a certain category&amp;rdquo; or &amp;ldquo;why the image is not of a certain category.&amp;rdquo; We design a new loss tailored for SCOUTER that controls the model&amp;rsquo;s behavior to switch between positive and negative explanations, as well as the size of explanatory regions. Experimental results show that SCOUTER can give better visual explanations in terms of various metrics while keeping good accuracy on small and medium-sized datasets.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jMJs4uV3aHA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;You can find the &lt;a href=&#34;https://arxiv.org/abs/2009.06138&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; and &lt;a href=&#34;https://github.com/wbw520/scouter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;vessel-segmentation-for-retinal-fundus-images&#34;&gt;Vessel segmentation for retinal fundus images&lt;/h2&gt;
+&lt;p&gt;Retinal vessel segmentation is of great interest for diagnoses of retinal vascular diseases. To further improve the performance of vessel segmentation, we propose IterNet, a new model based on UNet, with the ability to find obscured details of the vessel from the segmented vessel image itself, rather than the raw input image. IterNet consists of multiple iterations of a mini-UNet, which can be 4× deeper than the common UNet. IterNet also adopts the weight-sharing and skip-connection features to facilitate training; therefore, even with such a large architecture, IterNet can still learn from merely 10-20 labeled images, without pre-training or any prior knowledge. IterNet achieves AUCs of 0.9816, 0.9851, and 0.9881 on three mainstream datasets, namely DRIVE, CHASE-DB1,
+and STARE, respectively, which currently are the best scores in the literature.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-example-of-retinal-fundus-image-a-ground-truth-vessel-segmentation-segmentation-results-by-existing-two-methods-c-d-and-our-iternet-e&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Example of retinal fundus image (a), ground-truth vessel segmentation, segmentation results by existing two methods (c, d), and our IterNet (e).&#34; srcset=&#34;
+               /media/topics-mi-iternet_hu3564b53d50fa8521a60996b432ec4bf7_877620_43c49f736604f2c96af0d8fe2871882e.webp 400w,
+               /media/topics-mi-iternet_hu3564b53d50fa8521a60996b432ec4bf7_877620_d47aed78e4bdef2d5c4ab4981d67d813.webp 760w,
+               /media/topics-mi-iternet_hu3564b53d50fa8521a60996b432ec4bf7_877620_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/topics-mi-iternet_hu3564b53d50fa8521a60996b432ec4bf7_877620_43c49f736604f2c96af0d8fe2871882e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;図&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Example of retinal fundus image (a), ground-truth vessel segmentation, segmentation results by existing two methods (c, d), and our IterNet (e).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;The code is available &lt;a href=&#34;https://github.com/conscienceli/IterNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;arteryvein-classification-for-retinal-fundus-images&#34;&gt;Artery/vein classification for retinal fundus images&lt;/h2&gt;
+&lt;p&gt;Retinal imaging serves as a valuable tool for diagnoses of various diseases. However, reading retinal images is a difficult and time-consuming task even for experienced specialists. The fundamental step towards automated retinal image analysis is vessel segmentation and artery/vein classification, which provide various information on potential disorders. To improve the performance of the existing automated methods for retinal image analysis, we propose a two-step vessel classification. We adopt a UNet-based model, SeqNet, to accurately segment vessels from the background and make predictions on the vessel type. Our model does segmentation and classification sequentially, which alleviates the problem of label distribution bias and facilitates training. To further refine classification results, we post-process them considering the structural information among vessels to propagate highly confident predictions to surrounding vessels. Our experiments show that our method improves AUC to 0.98 for segmentation and the accuracy to 0.92 in classification over the DRIVE dataset.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-seqnet-model&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SeqNet model.&#34; srcset=&#34;
+               /media/topics-mi-seqnet_hu24c0f43f22b21419a69d3c745c291116_396198_6917a8b728552beb47b2c8e25277d611.webp 400w,
+               /media/topics-mi-seqnet_hu24c0f43f22b21419a69d3c745c291116_396198_e6625d7c2dfc5f5083f9bacc37884a47.webp 760w,
+               /media/topics-mi-seqnet_hu24c0f43f22b21419a69d3c745c291116_396198_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/media/topics-mi-seqnet_hu24c0f43f22b21419a69d3c745c291116_396198_6917a8b728552beb47b2c8e25277d611.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;図&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      SeqNet model.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;The code is available &lt;a href=&#34;https://github.com/conscienceli/SeqNet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

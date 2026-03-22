@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chenhui Chu | ISLab, Osaka University</title>
+    <link>/en/authors/chenhui-chu/</link>
+      <atom:link href="/en/authors/chenhui-chu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chenhui Chu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/chenhui-chu/avatar_hua400fea5d8782bfc1e4686cbd803d9a0_15806357_270x270_fill_lanczos_center_3.png</url>
+      <title>Chenhui Chu</title>
+      <link>/en/authors/chenhui-chu/</link>
+    </image>
+    
+    <item>
+      <title>Information Extraction from Public Meeting Articles</title>
+      <link>/en/publication/virgo-2022-sncs/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/virgo-2022-sncs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corpus Construction for Historical Newspapers: A Case Study on Public Meeting Corpus Construction Using OCR Error Correction</title>
+      <link>/en/publication/tanaka-2022-corpus/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/tanaka-2022-corpus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The semantic typology of visually grounded paraphrases</title>
+      <link>/en/publication/chu-2021-semantic/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/chu-2021-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCNBoost: Artwork Classificationby Label Propagation Through a Knowledge Graph</title>
+      <link>/en/publication/vaigh-2021-gcnboost/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/vaigh-2021-gcnboost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferring domain-agnostic knowledge in video question answering</title>
+      <link>/en/publication/wu-2021-transferring/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/wu-2021-transferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attending self-attention: A case study of visually grounded supervision in vision-and-language transformers</title>
+      <link>/en/publication/samaran-2021-attending/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/samaran-2021-attending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of language Transformers for video question answering</title>
+      <link>/en/publication/yang-2021-bert/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/yang-2021-bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WRIME: A new dataset for emotional intensity estimation with subjective and objective annotations</title>
+      <link>/en/publication/kajiwara-2021-wrime/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/kajiwara-2021-wrime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The laughing machine: Predicting humor in video</title>
+      <link>/en/publication/kayatani-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/kayatani-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-lingual visual grounding</title>
+      <link>/en/publication/dong-2021/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/dong-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDSOU at WNUT-2020 Task 2: Identification of informative COVID-19 English tweets</title>
+      <link>/en/publication/ohashi-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ohashi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving topic modeling through homophily for legal documents</title>
+      <link>/en/publication/ashihara-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashihara-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visually grounded paraphrase identification via gating and phrase localization</title>
+      <link>/en/publication/otani-2020-a/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/otani-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge VQA</title>
+      <link>/en/project/kiban_b-kvqa/</link>
+      <pubDate>Wed, 01 Jul 2020 10:13:28 +0900</pubDate>
+      <guid>/en/project/kiban_b-kvqa/</guid>
+      <description>&lt;p&gt;Visual question answering (VQA) with knowledge is a task that requires knowledge to answer questions on images/video. This additional requirement of knowledge poses an interesting challenge on top of the classic VQA tasks. Specifically, a system needs to explore external knowledge sources to answer the questions correctly, as well as understanding the visual content.&lt;/p&gt;
+&lt;p&gt;We created &lt;a href=&#34;https://knowit-vqa.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a dedicated dataset for our knowledge VQA task&lt;/a&gt; and made it open to the public so that everyone can enjoy our new task. The results are presented at &lt;a href=&#34;https://aaai.org/Conferences/AAAI-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Representation of videos has been a major research topic for various deep learning applications including visual question answering. This is a challenging problem especially for tasks that involves vision and language and some researchers pointed out that deep neural network-based models mainly use natural language text but not the vision. We propose to use textual representation of videos, in which SOTA models for detection/recognition are used for generating text together with some rules. The results are presented at &lt;a href=&#34;https://eccv2020.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECCV 2020&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KCUUvSpf-Qo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br/&gt;
+&lt;p&gt;We also work on question answering on art, which requires high-level understanding of paintings themselves as well as associated knowledge on them.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/I78SoOkH3dM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Noa Garcia, Chentao Ye, Zihua Liu, Qingtao Hu, Mayu Otani, Chenhui Chu, Yuta Nakashima, and Teruko Mitamura (2020). &lt;a href=&#34;https://arxiv.org/abs/2008.12520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Dataset and Baselines for Visual Question Answering on Art&lt;/a&gt;. Proc. European Computer Vision Conference Workshops.&lt;/li&gt;
+&lt;li&gt;Noa Garcia and Yuta Nakashima (2020). &lt;a href=&#34;https://arxiv.org/abs/2007.08751&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knowledge-Based VideoQA with Unsupervised Scene Descriptions&lt;/a&gt;. Proc. European Conference on Computer Vision.&lt;/li&gt;
+&lt;li&gt;Noa Garcia, Mayu Otani, Chenhui Chu, and Yuta Nakashima (2020). KnowIT VQA: Answering knowledge-based questions about videos. Proc. AAAI Conference on Artificial Intelligence.&lt;/li&gt;
+&lt;li&gt;Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2020). BERT representations for video question answering. Proc. IEEE Winter Conference on Applications of Computer Vision.&lt;/li&gt;
+&lt;li&gt;Noa Garcia, Chenhui Chu, Mayu Otani, and Yuta Nakashima (2019). Video meets knowledge in visual question answering. MIRU.&lt;/li&gt;
+&lt;li&gt;Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2019). Video question answering with BERT. MIRU.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Australian History in Newspaper and AI</title>
+      <link>/en/project/australian-history/</link>
+      <pubDate>Wed, 01 Jul 2020 10:13:06 +0900</pubDate>
+      <guid>/en/project/australian-history/</guid>
+      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;http://www.let.osaka-u.ac.jp/seiyousi/fujikawa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Fujikawa&lt;/a&gt; at Graduate School of Letters, Osaka University, we are working on exploring Australian history through public meetings, of which call for participation appears in newspapers from back then.&lt;/p&gt;
+&lt;p&gt;We explore ways to analyze such newspapers with state-of-the-art technologies in NLP to make OCR output better and to automatically detect/structure call for participation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Law and AI</title>
+      <link>/en/project/green_law/</link>
+      <pubDate>Wed, 17 Jun 2020 23:02:32 +0900</pubDate>
+      <guid>/en/project/green_law/</guid>
+      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;https://researchmap.jp/read0180483?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Noriko Okubo&lt;/a&gt; at Graduate School of Law and Politics, Osaka University, we are studying to automatically evaluate how green laws are enforced in different countries.&lt;/p&gt;
+&lt;p&gt;Green laws&amp;rsquo; participation principle consists of 1) the information access right, 2) participation in the policy decision process, 3) the judicial access; however, actual implementation varies country to country, and legal methodologies have been explored for evaluating their effectiveness. This work investigates legal evaluation criteria on the green laws&amp;rsquo; participation principle, analyzes Japanese participation system&amp;rsquo;s pros and cons in a comparative perspective, and propose some recommendations to establish the environmental democracy.&lt;/p&gt;
+&lt;p&gt;The difficulty lies in how to automatically find out related legislations, cases, statutes, etc. in different languages. As the first attempt, we proposed a method for identifying the topic of such legal documents through analyzing citation networks in addition to classic topic modeling. The figure below shows citation networks among different types of legal documents (e.g., cases-prior cases).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/project/green_law/citation_networks_huab3f0c6cd7d27657c2614c3ccbddca1e_853493_fbb4885e5034f0eab3d09b14c4e58892.webp 400w,
+               /en/project/green_law/citation_networks_huab3f0c6cd7d27657c2614c3ccbddca1e_853493_2457a9e2d02614a78a971afaae3100b7.webp 760w,
+               /en/project/green_law/citation_networks_huab3f0c6cd7d27657c2614c3ccbddca1e_853493_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/en/project/green_law/citation_networks_huab3f0c6cd7d27657c2614c3ccbddca1e_853493_fbb4885e5034f0eab3d09b14c4e58892.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;248&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>公開集会記事からの情報抽出</title>
+      <link>/en/publication/tanaka-2020-b/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/tanaka-2020-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCR誤り訂正を⽤いた歴史新聞データからのコーパス構築</title>
+      <link>/en/publication/tanaka-2020-c/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/tanaka-2020-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KnowIT VQA: Answering knowledge-based questions about videos</title>
+      <link>/en/publication/garcia-2020-a/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/garcia-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BERT representations for video question answering</title>
+      <link>/en/publication/yang-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/yang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public meeting corpus construction and content delivery</title>
+      <link>/en/publication/chu-2020-a/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/chu-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>歴史研究におけるビッグデータの活用－オーストラリアを中心に</title>
+      <link>/en/publication/fujikawa-2020-a/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/fujikawa-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legal information as a complex network: Improving topic modeling through homophily</title>
+      <link>/en/publication/ashihara-2019-b/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashihara-2019-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>歴史新聞データからのコーパス構築</title>
+      <link>/en/publication/tanaka-2019-a/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/tanaka-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video meets knowledge in visual question answering</title>
+      <link>/en/publication/noa-garcia-chenhui-chu-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/noa-garcia-chenhui-chu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iParaphrasing: Extracting visually grounded paraphrases via an image</title>
+      <link>/en/publication/chu-2018-a/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/chu-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visually grounded paraphrase extraction</title>
+      <link>/en/publication/chu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/en/publication/chu-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

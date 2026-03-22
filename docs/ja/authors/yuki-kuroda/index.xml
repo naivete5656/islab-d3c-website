@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>黒田佑樹 | ISLab, Osaka University</title>
+    <link>/ja/authors/yuki-kuroda/</link>
+      <atom:link href="/ja/authors/yuki-kuroda/index.xml" rel="self" type="application/rss+xml" />
+    <description>黒田佑樹</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/yuki-kuroda/avatar_hu4f0ef8bfed7ecc54679ea0c2310001e4_12997_270x270_fill_lanczos_center_3.png</url>
+      <title>黒田佑樹</title>
+      <link>/ja/authors/yuki-kuroda/</link>
+    </image>
+    
+  </channel>
+</rss>

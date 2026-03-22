@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atsushi Ashida | ISLab, Osaka University</title>
+    <link>/en/authors/atsushi-ashida/</link>
+      <atom:link href="/en/authors/atsushi-ashida/index.xml" rel="self" type="application/rss+xml" />
+    <description>Atsushi Ashida</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/atsushi-ashida/avatar_huaaf08b9e8908ae5fa1adadf9a6f9fb45_1852297_270x270_fill_lanczos_center_3.png</url>
+      <title>Atsushi Ashida</title>
+      <link>/en/authors/atsushi-ashida/</link>
+    </image>
+    
+    <item>
+      <title>Applicability of Facial Video-Based Alertness Estimation Model in Real Online and In-Person Classrooms</title>
+      <link>/en/publication/ashida-2025-applicability/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashida-2025-applicability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Internal State Feedback in an E-learning Environment Acceptable to People?</title>
+      <link>/en/publication/ashida-2024-internal/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/en/publication/ashida-2024-internal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society 5.0 Projects</title>
+      <link>/en/project/society5_0/</link>
+      <pubDate>Wed, 01 Jul 2020 10:07:15 +0900</pubDate>
+      <guid>/en/project/society5_0/</guid>
+      <description>&lt;p&gt;D3 Center, Osaka University is now working on &lt;a href=&#34;https://www.ildi.ids.osaka-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Society 5.0&lt;/a&gt; using information science and technology.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the world of Society 5.0, innovations in IoT, Big Data, robotics, and AI will be part of everyday life, helping people lead active and high-quality lives, creating a super-smart society. This project encourages collaboration across projects and university organizations, thus promoting faster adoption of research results in real-world society.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Under this big project, we are working two sub-projects:&lt;/p&gt;
+&lt;h2 id=&#34;social-sensing-for-society-50&#34;&gt;Social sensing for Society 5.0&lt;/h2&gt;
+&lt;p&gt;Sensing technologies that aggregate various types of information from publicly and ubiquitously available social probes including social networking services are essential for providing various services in the world of Society 5.0. We are working towards establishing a social sensing technology that can infer emotional states of people for timely services.&lt;/p&gt;
+&lt;h2 id=&#34;future-school-technology-for-society-50&#34;&gt;Future school technology for Society 5.0&lt;/h2&gt;
+&lt;p&gt;Education everywhere is one of SDGs, and e-learning is one solution toward this. We collectively working on a broad range of technologies related to e-learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

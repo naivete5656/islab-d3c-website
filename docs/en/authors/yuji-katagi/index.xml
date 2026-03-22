@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuji Katagi | ISLab, Osaka University</title>
+    <link>/en/authors/yuji-katagi/</link>
+      <atom:link href="/en/authors/yuji-katagi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuji Katagi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/yuji-katagi/avatar_hu88422938f9452d75921ea719c13e73c1_57995_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yuji Katagi</title>
+      <link>/en/authors/yuji-katagi/</link>
+    </image>
+    
+  </channel>
+</rss>

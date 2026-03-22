@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>新岡宏彦 | ISLab, Osaka University</title>
+    <link>/ja/authors/hirohiko-niioka/</link>
+      <atom:link href="/ja/authors/hirohiko-niioka/index.xml" rel="self" type="application/rss+xml" />
+    <description>新岡宏彦</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/hirohiko-niioka/avatar_hudf00324049eda8fc39adb24bdd58e3c4_7930329_270x270_fill_lanczos_center_3.png</url>
+      <title>新岡宏彦</title>
+      <link>/ja/authors/hirohiko-niioka/</link>
+    </image>
+    
+    <item>
+      <title>Diagnostic performance for pulmonary adenocarcinoma on CT: comparison of radiologists with and without three-dimensional convolutional neural network</title>
+      <link>/ja/publication/yanagawa-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yanagawa-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Following Embryonic Stem Cells, Their Differentiated Progeny, and Cell-State Changes During iPS Reprogramming by Raman Spectroscopy</title>
+      <link>/ja/publication/arno-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/arno-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improvement of nerve imaging speed with coherent anti-Stokes Raman scattering rigid endoscope using deep-learning noise reduction</title>
+      <link>/ja/publication/yamato-2020-a/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yamato-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red-Fluorescent Pt Nanoclusters for Detecting and Imaging HER2 in Breast Cancer Cells</title>
+      <link>/ja/publication/tanaka-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/tanaka-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nerve segmentation with deep learning from label-free endoscopic images obtained using coherent anti-stokes Raman scattering</title>
+      <link>/ja/publication/yamato-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yamato-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Network Can Recognize Drug Resistance of Single Cancer Cells</title>
+      <link>/ja/publication/yanagisawa-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yanagisawa-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep-UV excitation fluorescence microscopy for detection of lymph node metastasis using deep neural network</title>
+      <link>/ja/publication/matsumoto-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/matsumoto-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excitation of erbium-doped nanoparticles in 1550-nm wavelength region for deep tissue imaging with reduced degradation of spatial resolution</title>
+      <link>/ja/publication/yamanaka-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yamanaka-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of deep learning (3-dimensional convolutional neural network) for the prediction of pathological invasiveness in lung adenocarcinoma</title>
+      <link>/ja/publication/yanagawa-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yanagawa-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Article: Label-free nerve imaging with a coherent anti-Stokes Raman scattering rigid endoscope using two optical fibers for laser delivery</title>
+      <link>/ja/publication/hirose-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/hirose-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

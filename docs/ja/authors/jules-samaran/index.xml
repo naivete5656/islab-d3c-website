@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jules Samaran | ISLab, Osaka University</title>
+    <link>/ja/authors/jules-samaran/</link>
+      <atom:link href="/ja/authors/jules-samaran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jules Samaran</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/jules-samaran/avatar_hueb8d57518979397b15bae095ed44e71d_6465913_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jules Samaran</title>
+      <link>/ja/authors/jules-samaran/</link>
+    </image>
+    
+    <item>
+      <title>Attending self-attention: A case study of visually grounded supervision in vision-and-language transformers</title>
+      <link>/ja/publication/samaran-2021-attending/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/samaran-2021-attending/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | ISLab, Osaka University</title>
+    <link>/ja/project/</link>
+      <atom:link href="/ja/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Sat, 20 May 2023 00:00:00 +0900</lastBuildDate>
+    <image>
+      <url>/media/logo_hu395f5bc88680994b3144d9b1afedc509_9245_300x300_fit_lanczos_3.png</url>
+      <title>Projects</title>
+      <link>/ja/project/</link>
+    </image>
+    
+    <item>
+      <title>物理エンコーダの同時最適化による物体認識モデルと病理診断実証</title>
+      <link>/ja/project/kibans-23h05490/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0900</pubDate>
+      <guid>/ja/project/kibans-23h05490/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D画像認識AIによる革新的癌診断支援システムの構築</title>
+      <link>/ja/project/crest-3d-cancer/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0900</pubDate>
+      <guid>/ja/project/crest-3d-cancer/</guid>
+      <description>&lt;p&gt;標本採取による細胞診断は、癌の早期発見に有効な検査法の1つです。我々は、超解像多重焦点画像列から細胞の3次元形状情報を抽出し、それに基づいた3次元画像認識AIによる細胞レベルで診断する革新的な子宮頸部細胞診自動診断支援システムを開発します。
+これにより、2次元画像のみを用いる現行機を凌駕する高精度で質の高い細胞診断を実現し、次世代細胞診断の創出を目指します。&lt;/p&gt;
+&lt;p&gt;本プロジェクトは、科学技術振興機構（JST）戦略的創造研究推進事業CREST研究領域 「イノベーション創発に資する人工知能基盤技術の創出と統合化」（人工知能）に採択されています。&lt;/p&gt;
+&lt;p&gt;詳しくは&lt;a href=&#34;http://www.cc.okayama-u.ac.jp/~iim/project/AIcytology/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge VQA</title>
+      <link>/ja/project/kiban_b-kvqa/</link>
+      <pubDate>Wed, 01 Jul 2020 10:13:28 +0900</pubDate>
+      <guid>/ja/project/kiban_b-kvqa/</guid>
+      <description>&lt;p&gt;知識を要する画像・映像に関する質疑応答（Knowledge Visual Question Answering; KVQA）は、画像・映像に関する質問で、回答に知識を必要とするタスクです。知識を要求するこの新しいタスクは、今までのタスクと同様画像・映像の理解に加えて、どうやって知識を収集するのか、回答生成時にどうやって（外部）知識を取り入れるのか、という新しいチャレンジが必要になります。&lt;/p&gt;
+&lt;p&gt;このプロジェクトでは、&lt;a href=&#34;https://knowit-vqa.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KVQAのための新しいデータセット&lt;/a&gt;を構築し、公開しています。この成果は、人工知能分野のトップカンファレンスの一つである&lt;a href=&#34;https://aaai.org/Conferences/AAAI-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI 2020&lt;/a&gt;で発表しました。&lt;/p&gt;
+&lt;p&gt;また、深層学習などでの利用にあたって映像をどのように表現するかは、質疑応答をはじめとする様々なタスクにおいて主要な研究課題となっています。特に、視覚と自然言語を入力とするタスクでは、モデルが自然言語ばかり注目するような現象もあるようで、難しい問題です。このプロジェクトでは、映像をテキストで表現するアプローチ（キャプション生成のような教師ありの手法ではなく、映像から必要なオブジェクトなどを検出してルールベースでテキストを生成する手法）を採用し、既存手法と比較しています。この成果は、コンピュータビジョン分野のトップカンファレンスの一つである&lt;a href=&#34;https://eccv2020.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECCV 2020&lt;/a&gt;で発表しました。&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KCUUvSpf-Qo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br/&gt;
+&lt;p&gt;関連した研究として、絵画に関するQAについても取り組んでいます。&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/I78SoOkH3dM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Noa Garcia, Chentao Ye, Zihua Liu, Qingtao Hu, Mayu Otani, Chenhui Chu, Yuta Nakashima, and Teruko Mitamura (2020). &lt;a href=&#34;https://arxiv.org/abs/2008.12520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Dataset and Baselines for Visual Question Answering on Art&lt;/a&gt;. Proc. European Computer Vision Conference Workshops.&lt;/li&gt;
+&lt;li&gt;Noa Garcia and Yuta Nakashima (2020). &lt;a href=&#34;https://arxiv.org/abs/2007.08751&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knowledge-Based VideoQA with Unsupervised Scene Descriptions&lt;/a&gt;. Proc. European Conference on Computer Vision.&lt;/li&gt;
+&lt;li&gt;Noa Garcia, Mayu Otani, Chenhui Chu, and Yuta Nakashima (2020). KnowIT VQA: Answering knowledge-based questions about videos. Proc. AAAI Conference on Artificial Intelligence.&lt;/li&gt;
+&lt;li&gt;Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2020). BERT representations for video question answering. Proc. IEEE Winter Conference on Applications of Computer Vision.&lt;/li&gt;
+&lt;li&gt;Noa Garcia, Chenhui Chu, Mayu Otani, and Yuta Nakashima (2019). Video meets knowledge in visual question answering. MIRU.&lt;/li&gt;
+&lt;li&gt;Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2019). Video question answering with BERT. MIRU.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>オーストラリアの歴史とAI</title>
+      <link>/ja/project/australian-history/</link>
+      <pubDate>Wed, 01 Jul 2020 10:13:06 +0900</pubDate>
+      <guid>/ja/project/australian-history/</guid>
+      <description>&lt;p&gt;大阪大学 文学研究科の&lt;a href=&#34;http://www.let.osaka-u.ac.jp/seiyousi/fujikawa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;藤川 隆男 教授&lt;/a&gt;との共同研究では、当時のパブリックミーティングの参加呼びかけについての新聞記事を利用してオーストラリアの歴史を探索しするアプローチを模索しています。&lt;/p&gt;
+&lt;p&gt;ISLabでは、自然言語処理の最新技術をリヨ空いて、OCRの出力を改善するポストプロセスや、新聞記事の自動構造化など、研究の基盤となるデータ収集のための方法論を構築しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>学術変革領域研究(A) 学習物理学の創成</title>
+      <link>/ja/project/mlphys/</link>
+      <pubDate>Wed, 01 Jul 2020 10:12:37 +0900</pubDate>
+      <guid>/ja/project/mlphys/</guid>
+      <description>&lt;p&gt;物理学は、その長い歴史の中で、自然科学で最も精密な実験場を提供し、さまざまな自然の階層における課題を、数理科学との連携により解決してきました。&lt;/p&gt;
+&lt;p&gt;一方で、機械学習分野は、人工知能の基盤をなす数理体系であり、近年の計算科学の進展により爆発的な進化を見せている、大きな研究分野です。我々は、これら大きな二つの分野を融合する、「学習物理学領域」を提案します。&lt;/p&gt;
+&lt;p&gt;詳しくは&lt;a href=&#34;https://mlphys.scphys.kyoto-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>多元コンピュテーショナル光計測による手術支援応用</title>
+      <link>/ja/project/kiban_s-plenoptic/</link>
+      <pubDate>Wed, 01 Jul 2020 10:12:37 +0900</pubDate>
+      <guid>/ja/project/kiban_s-plenoptic/</guid>
+      <description>&lt;p&gt;近年、開腹手術とくらべて患者の負担が少なく快復が早いことから内視鏡手術が注目されている。しかし、内視鏡で得られるのは視野の狭い2次元画像で、術者に高度な技術を要求することから開腹手術と比べて効率や安全性が劣るという問題がある。本研究では、新たな光計測技術を開発し非接触でリアルタイムの臓器の3次元計測･推定手法を実現する。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;研究分野：情報学、知覚情報処理&lt;/li&gt;
+&lt;li&gt;キーワード：コンピュテーショナルフォトグラフィ、光センシング、医療計測&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;詳しくは&lt;a href=&#34;https://www.ids.osaka-u.ac.jp/nagahara/projects/kibanS-17H06102/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Society 5.0 Projects</title>
+      <link>/ja/project/society5_0/</link>
+      <pubDate>Wed, 01 Jul 2020 10:07:15 +0900</pubDate>
+      <guid>/ja/project/society5_0/</guid>
+      <description>&lt;p&gt;D3センターでは、情報科学の様々な分野に渡る技術を利用して、&lt;a href=&#34;https://www.ildi.ids.osaka-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Society 5.0&lt;/a&gt;プロジェクトに取り組んでいます。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Society 5.0 とは・・・IoTビッグデータ、ロボット技術、人工知能等のイノベーションを、産業や社会生活に活用し、人々が活力に満ちた質の高い生活を実感できる社会のこと。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;このプロジェクトの下、以下の二つの課題に取り組んでいます。&lt;/p&gt;
+&lt;h2 id=&#34;society-50のためのソーシャルセンシング&#34;&gt;Society 5.0のためのソーシャルセンシング&lt;/h2&gt;
+&lt;p&gt;多種多様な、広く公開されたセンサデータから有用な情報を集めるセンシング技術は、Society 5.0の実現に不可欠なものです。ソーシャルネットワークでさえも、現在の社会を観測するプローブであると見ることができます。このプロジェクトでは、ソーシャルネットワークを利用して、人々の感情などを推測するシステムを構築し、Society 5.0の世界におけるタイムリーなサービスの提供を目指します。&lt;/p&gt;
+&lt;h2 id=&#34;society-50世界の未来の学校プロエジェクト&#34;&gt;Society 5.0世界の未来の学校プロエジェクト&lt;/h2&gt;
+&lt;p&gt;教育の提供は持続可能な開発目標の一つとして挙げられる現代社会の課題の一つです。e-learningはこの目標に対するアプローチの一つとなり得るものですが、質の高い教育のためには、学習者の状態の把握などを始めとする様々な技術による支援が必要になると考えられます。このプロジェクトでは、関連する技術に幅広く取り組んでいます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>審美歯科修復における光学的シミュレーション解析</title>
+      <link>/ja/project/esthetic-dentistry/</link>
+      <pubDate>Wed, 01 Jul 2020 10:06:58 +0900</pubDate>
+      <guid>/ja/project/esthetic-dentistry/</guid>
+      <description>&lt;p&gt;大阪大学歯学研究科との共同研究では、インプラントされた歯を光学的な観点からより自然に見せるための研究を行っています。&lt;/p&gt;
+&lt;p&gt;患者の口腔内の審美性に対する要求が高まっています。特に前歯部においては単に機能を回復するだけでなく、天然歯に近似した色調や光の透過性を有する修復治療が求められています。そこで、各種歯冠修復材料や歯の組織の光学特性を分析し光学的シミュレーションを行うことで、天然歯や歯冠修復物における光の振る舞いを可視化し、解析します。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/esthetic-dentistry/bs02_ja_hufa2c9813ab5ec072b2ff3aff4129a81c_207794_eeab7c2f93658533dafa7e727e2a8bff.webp 400w,
+               /ja/project/esthetic-dentistry/bs02_ja_hufa2c9813ab5ec072b2ff3aff4129a81c_207794_6d9eebfc52b7dcb3d1a153df97747929.webp 760w,
+               /ja/project/esthetic-dentistry/bs02_ja_hufa2c9813ab5ec072b2ff3aff4129a81c_207794_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/ja/project/esthetic-dentistry/bs02_ja_hufa2c9813ab5ec072b2ff3aff4129a81c_207794_eeab7c2f93658533dafa7e727e2a8bff.webp&#34;
+               width=&#34;654&#34;
+               height=&#34;272&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>AIホスピタル</title>
+      <link>/ja/project/ai-hospital/</link>
+      <pubDate>Wed, 01 Jul 2020 10:05:12 +0900</pubDate>
+      <guid>/ja/project/ai-hospital/</guid>
+      <description>&lt;p&gt;大阪大学附属病院はでは、医療従事者、医療情報専門家、テータサイエンティストなどが一体となることにより、AIを用いた医療を速やかに、かつ安全に医療現場に導入するために、&lt;a href=&#34;https://www.hosp.med.osaka-u.ac.jp/departments/ai.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI医療センター&lt;/a&gt;を設立しました。&lt;/p&gt;
+&lt;p&gt;ISLabでは、最新のAIの技術を利用してAI医療センターと共同研究を進めています。&lt;/p&gt;
+&lt;h2 id=&#34;眼科と人工知能&#34;&gt;眼科と人工知能&lt;/h2&gt;
+&lt;p&gt;網膜画像中の血管を見ると、人の循環器システムに関する様々な情報を取り出すことができ、眼科のみではなく様々な診療科で活用されています。我々は、血管の自動抽出を目指して、IterNetという、深層学習を利用した新しい手法を開発しました (図(e))。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_0cf69ea8a514b551b486f1fc0f747c79.webp 400w,
+               /ja/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_a7bc970682d91aff443122097a8a8c3a.webp 760w,
+               /ja/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/ja/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_0cf69ea8a514b551b486f1fc0f747c79.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;また、このIterNetをベースに、動脈と静脈を抽出、分類する手法を提案しています。この手法では深層学習を利用した分類器の結果に後処理を適用することで高い精度を達成しました。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_502dfe669af2e3e1612fca208636e48d.webp 400w,
+               /ja/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_7f317d7eba3ee7cef1d24fb60c00137d.webp 760w,
+               /ja/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/ja/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_502dfe669af2e3e1612fca208636e48d.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Law and AI</title>
+      <link>/ja/project/green_law/</link>
+      <pubDate>Wed, 17 Jun 2020 23:02:32 +0900</pubDate>
+      <guid>/ja/project/green_law/</guid>
+      <description>&lt;p&gt;大阪大学法学研究科の&lt;a href=&#34;https://researchmap.jp/read0180483&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;大久保 規子 教授&lt;/a&gt;との共同研究では、いろいろな国で環境法がどのように実施されているかについてを自動で評価する方法を研究しています。&lt;/p&gt;
+&lt;p&gt;環境法の参加原則は、①情報アクセス権、②政策決定への参加権、③司法アクセス権という３つの柱から成り立っていますが、その具体的制度は国によりさまざまで、実効性を評価するための法的手法が模索されています。このプロジェクトでは、環境法の参加原則に関する国際的な法的評価指標を検討するして、日本の参加法制の強みと弱みを比較法的な観点から分析し、環境民主主義の確立に向けた提言を行うことを目的としています。&lt;/p&gt;
+&lt;p&gt;このときの、まず最初の課題となるのが、いろいろな言語で記述される関連法、判例などをどのようにして見つけ出すかという点です。最初の取り組みとして、関連法、判例などを引用ネットワークと考え、そのトピックを教師なし学習的に発見する手法（トピックモデリング）を開発しました。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/green_law/citation_networks_huab3f0c6cd7d27657c2614c3ccbddca1e_853493_fbb4885e5034f0eab3d09b14c4e58892.webp 400w,
+               /ja/project/green_law/citation_networks_huab3f0c6cd7d27657c2614c3ccbddca1e_853493_2457a9e2d02614a78a971afaae3100b7.webp 760w,
+               /ja/project/green_law/citation_networks_huab3f0c6cd7d27657c2614c3ccbddca1e_853493_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/ja/project/green_law/citation_networks_huab3f0c6cd7d27657c2614c3ccbddca1e_853493_fbb4885e5034f0eab3d09b14c4e58892.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;248&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>仏顔とAI</title>
+      <link>/ja/project/buddha-face/</link>
+      <pubDate>Wed, 17 Jun 2020 22:52:41 +0900</pubDate>
+      <guid>/ja/project/buddha-face/</guid>
+      <description>&lt;p&gt;大阪大学 文学研究科の&lt;a href=&#34;http://www.dma.jim.osaka-u.ac.jp/view?l=ja&amp;amp;u=6617&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;藤岡 穣 教授&lt;/a&gt;との共同研究では、仏像の顔に着目して、その仏像に関する様々な側面を解析する研究を実施しています。&lt;/p&gt;
+&lt;p&gt;仏像の顔（仏顔）には、その地域や時代、作家に関する様々な情報が含まれると考えられます。我々は、統計的、機械学習的手法を用いて、仏顔の画像や3次元形状のデータから仏像の系統図を構築します。これは、専門家の主観や経験によらず、純粋にデータから得られた知識を利用して様式判定を実現することに繋がり、仏像に関する研究のグローバル化や、仏像の系統の特定からアジア圏の文化がどのようにシルクロードを伝播したかについて、さらなる知見を与える可能性を持つ。&lt;/p&gt;
+&lt;p&gt;この目的に向けて、ISLabでは解析に利用可能なより高度なモデルの学習のためのメタデータ収集を容易にしつつ、大量の仏顔画像コーパスをブラウジングするための新しいインターフェイスを開発した。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/buddha-face/interfaces_hu412127b82145130d68f689675871a563_688796_718403a863445329e52e4b3c12be1058.webp 400w,
+               /ja/project/buddha-face/interfaces_hu412127b82145130d68f689675871a563_688796_08ff27fa6449dcd9f195778c4a1056d7.webp 760w,
+               /ja/project/buddha-face/interfaces_hu412127b82145130d68f689675871a563_688796_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/ja/project/buddha-face/interfaces_hu412127b82145130d68f689675871a563_688796_718403a863445329e52e4b3c12be1058.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;172&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;また、対象の画像を機械学習モデルで解釈する際に利用される画像の表現方法として、作者や時代、作成場所などの情報を画像と併せてベクトル表現するアプローチを開発した。このベクトル表現は、分類モデルなどに直接利用が可能となる。&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /ja/project/buddha-face/contextnet_hu255c0008cb8fe6340d26b769ee3d244e_313842_52143b64e349f18927529a122f35df3e.webp 400w,
+               /ja/project/buddha-face/contextnet_hu255c0008cb8fe6340d26b769ee3d244e_313842_7ac82abcd6d3a1d794884f42faae8dec.webp 760w,
+               /ja/project/buddha-face/contextnet_hu255c0008cb8fe6340d26b769ee3d244e_313842_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;/ja/project/buddha-face/contextnet_hu255c0008cb8fe6340d26b769ee3d244e_313842_52143b64e349f18927529a122f35df3e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;336&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

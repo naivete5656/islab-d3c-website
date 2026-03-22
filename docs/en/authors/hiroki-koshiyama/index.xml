@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hiroki Koshiyama | ISLab, Osaka University</title>
+    <link>/en/authors/hiroki-koshiyama/</link>
+      <atom:link href="/en/authors/hiroki-koshiyama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hiroki Koshiyama</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/hiroki-koshiyama/avatar_hu4f0ef8bfed7ecc54679ea0c2310001e4_12997_270x270_fill_lanczos_center_3.png</url>
+      <title>Hiroki Koshiyama</title>
+      <link>/en/authors/hiroki-koshiyama/</link>
+    </image>
+    
+  </channel>
+</rss>

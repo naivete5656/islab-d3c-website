@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazuya Nishimura | ISLab, Osaka University</title>
+    <link>/en/authors/kazuya-nishimura/</link>
+      <atom:link href="/en/authors/kazuya-nishimura/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kazuya Nishimura</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/kazuya-nishimura/avatar_huaf55a4c725e215789c1ec1c0a2a168d7_328527_270x270_fill_lanczos_center_3.png</url>
+      <title>Kazuya Nishimura</title>
+      <link>/en/authors/kazuya-nishimura/</link>
+    </image>
+    
+    <item>
+      <title>Auxiliary Gene Learning: Spatial Gene Expression Estimation by Auxiliary Gene Selection</title>
+      <link>/en/publication/shiku-2025-auxiliary/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/shiku-2025-auxiliary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Relative Gene Expression Trends from Pathology Images in Spatial Transcriptomics</title>
+      <link>/en/publication/nishimura-2025-learning/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/nishimura-2025-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manisha Verma | ISLab, Osaka University</title>
+    <link>/en/authors/manisha-verma/</link>
+      <atom:link href="/en/authors/manisha-verma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manisha Verma</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/manisha-verma/avatar_hufb97c9e49b4b12e88be9eeb69e57899e_3079726_270x270_fill_lanczos_center_3.png</url>
+      <title>Manisha Verma</title>
+      <link>/en/authors/manisha-verma/</link>
+    </image>
+    
+    <item>
+      <title>Automated grading system of retinal arterio-venous crossing patterns: A deep learning approach replicating ophthalmologist’s diagnostic process of arteriolosclerosis</title>
+      <link>/en/publication/li-2023-automated/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/en/publication/li-2023-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depthwise spatio-temporal STFT convolutional neural networks for human action recognition</title>
+      <link>/en/publication/kumawat-2021-stft/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/kumawat-2021-stft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Match them up: visually explainable few-shot image classification</title>
+      <link>/en/publication/wang-2022-match/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/wang-2022-match/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-label disengagement and behavior prediction in online learning</title>
+      <link>/en/publication/verma-2022-multi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/verma-2022-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCOUTER: Slot attention-based classifier for explainable image recognition</title>
+      <link>/en/publication/li-2021-scouter/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/li-2021-scouter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learners&#39; efficiency prediction using facial behavior analysis</title>
+      <link>/en/publication/verma-2021-learners/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/verma-2021-learners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTUNet: Few-shot image classification with visual explanations</title>
+      <link>/en/publication/wang-2021-mtunet/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/en/publication/wang-2021-mtunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Society 5.0 Projects</title>
+      <link>/en/project/society5_0/</link>
+      <pubDate>Wed, 01 Jul 2020 10:07:15 +0900</pubDate>
+      <guid>/en/project/society5_0/</guid>
+      <description>&lt;p&gt;D3 Center, Osaka University is now working on &lt;a href=&#34;https://www.ildi.ids.osaka-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Society 5.0&lt;/a&gt; using information science and technology.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the world of Society 5.0, innovations in IoT, Big Data, robotics, and AI will be part of everyday life, helping people lead active and high-quality lives, creating a super-smart society. This project encourages collaboration across projects and university organizations, thus promoting faster adoption of research results in real-world society.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Under this big project, we are working two sub-projects:&lt;/p&gt;
+&lt;h2 id=&#34;social-sensing-for-society-50&#34;&gt;Social sensing for Society 5.0&lt;/h2&gt;
+&lt;p&gt;Sensing technologies that aggregate various types of information from publicly and ubiquitously available social probes including social networking services are essential for providing various services in the world of Society 5.0. We are working towards establishing a social sensing technology that can infer emotional states of people for timely services.&lt;/p&gt;
+&lt;h2 id=&#34;future-school-technology-for-society-50&#34;&gt;Future school technology for Society 5.0&lt;/h2&gt;
+&lt;p&gt;Education everywhere is one of SDGs, and e-learning is one solution toward this. We collectively working on a broad range of technologies related to e-learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI Hospital</title>
+      <link>/en/project/ai-hospital/</link>
+      <pubDate>Wed, 01 Jul 2020 10:05:12 +0900</pubDate>
+      <guid>/en/project/ai-hospital/</guid>
+      <description>&lt;p&gt;Osaka University Medical Hospital has launched &lt;a href=&#34;https://www.hosp.med.osaka-u.ac.jp/english/departments/ai.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificical Intelligence Center for Medical Research and Application (AIM)&lt;/a&gt;, which supports physicians, nurses, and all the medical staff collaborating with medical information specialists and data scientists to boost the medical application of AI in daily practices of the hospital.&lt;/p&gt;
+&lt;p&gt;We are collaborating with AIM to provide cutting-edge technologies.&lt;/p&gt;
+&lt;h2 id=&#34;ophthalmology-and-ai&#34;&gt;Ophthalmology and AI&lt;/h2&gt;
+&lt;p&gt;In ophthalmology or any other departments, vessels in retinal fundus images provide rich information on the cardiovascular system of human bodies. We proposed a state-of-the-art method, coined &lt;a href=&#34;publication/li-2020-a/&#34;&gt;IterNet&lt;/a&gt; for extracting vessels from retinal fundus images as in the (e) in the figure below.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_0cf69ea8a514b551b486f1fc0f747c79.webp 400w,
+               /en/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_a7bc970682d91aff443122097a8a8c3a.webp 760w,
+               /en/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/en/project/ai-hospital/iternet_hu5ea4eead4f7a5d7e4e3c54a3ef2dbf33_96994_0cf69ea8a514b551b486f1fc0f747c79.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;380&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;p&gt;On top of this technology, we also invented a new method for classifying vessels into artery/vein, which takes a two-step approach: We firstly segment vessels in input images using an IterNet-based method and then classify them into artery/vein with some post-processing.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /en/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_502dfe669af2e3e1612fca208636e48d.webp 400w,
+               /en/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_7f317d7eba3ee7cef1d24fb60c00137d.webp 760w,
+               /en/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;/en/project/ai-hospital/segmentation_hu6603ce41fa995fbca303679a56d9cb90_58078_502dfe669af2e3e1612fca208636e48d.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;371&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Yoga-82: a new dataset for fine-grained classification of human poses</title>
+      <link>/en/publication/verma-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/verma-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IterNet: retinal image segmentation utilizing structural redundancy in vessel networks</title>
+      <link>/en/publication/li-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/li-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint learning of vessel segmentation and artery/vein classification with post-processing</title>
+      <link>/en/publication/li-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/en/publication/li-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facial expression recognition with skip-connection to leverage low-level features</title>
+      <link>/en/publication/verma-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/en/publication/verma-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

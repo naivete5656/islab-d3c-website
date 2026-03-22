@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim Hakumin | ISLab, Osaka University</title>
+    <link>/en/authors/kim-hakumin/</link>
+      <atom:link href="/en/authors/kim-hakumin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kim Hakumin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/kim-hakumin/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_170694_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kim Hakumin</title>
+      <link>/en/authors/kim-hakumin/</link>
+    </image>
+    
+  </channel>
+</rss>

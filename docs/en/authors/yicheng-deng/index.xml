@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yicheng Deng | ISLab, Osaka University</title>
+    <link>/en/authors/yicheng-deng/</link>
+      <atom:link href="/en/authors/yicheng-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yicheng Deng</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/yicheng-deng/avatar_huaccabb2f0ad9ec6333d753339a46bb8a_67515_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yicheng Deng</title>
+      <link>/en/authors/yicheng-deng/</link>
+    </image>
+    
+    <item>
+      <title>Gaussian-Based Instance-Adaptive Intensity Modeling for Point-Supervised Facial Expression Spotting</title>
+      <link>/en/publication/deng-2025-gaussian/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/deng-2025-gaussian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Scale Spatio-Temporal Graph Convolutional Network for Facial Expression Spotting</title>
+      <link>/en/publication/deng-2024-multi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/en/publication/deng-2024-multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

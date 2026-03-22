@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yusuke Hirota | ISLab, Osaka University</title>
+    <link>/en/authors/yusuke-hirota/</link>
+      <atom:link href="/en/authors/yusuke-hirota/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yusuke Hirota</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/yusuke-hirota/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_572719_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yusuke Hirota</title>
+      <link>/en/authors/yusuke-hirota/</link>
+    </image>
+    
+    <item>
+      <title>Model-agnostic gender debiased image captioning</title>
+      <link>/en/publication/hirota-2023-model/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/en/publication/hirota-2023-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncurated image-text datasets: Shedding light on demographic bias</title>
+      <link>/en/publication/garcia-2023-uncurated/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/en/publication/garcia-2023-uncurated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender and Racial Bias in Visual Question Answering Datasets</title>
+      <link>/en/publication/hirota-2022-facct/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/hirota-2022-facct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Societal Bias Amplification in Image Captioning</title>
+      <link>/en/publication/hirota-2022-cvpr/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/en/publication/hirota-2022-cvpr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

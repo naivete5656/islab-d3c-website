@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shunsuke Ichimiya | ISLab, Osaka University</title>
+    <link>/en/authors/shunsuke-ichimiya/</link>
+      <atom:link href="/en/authors/shunsuke-ichimiya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shunsuke Ichimiya</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/shunsuke-ichimiya/avatar_hu0bc425db5d2bb19664eea3329f832a06_32543_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Shunsuke Ichimiya</title>
+      <link>/en/authors/shunsuke-ichimiya/</link>
+    </image>
+    
+  </channel>
+</rss>

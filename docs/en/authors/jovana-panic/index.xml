@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jovana Panic | ISLab, Osaka University</title>
+    <link>/en/authors/jovana-panic/</link>
+      <atom:link href="/en/authors/jovana-panic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jovana Panic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>/en/authors/jovana-panic/avatar_hu02aa61ae1d9de35cbe238d2676170cb9_78199_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jovana Panic</title>
+      <link>/en/authors/jovana-panic/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Experimental Design in Age Prediction from Retinal Fundus Images</title>
+      <link>/en/publication/panic-2025-impact/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/en/publication/panic-2025-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

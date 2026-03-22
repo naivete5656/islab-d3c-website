@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>過去の在籍メンバー | ISLab, Osaka University</title>
+    <link>/ja/alumni/</link>
+      <atom:link href="/ja/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <description>過去の在籍メンバー</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/media/logo_hu395f5bc88680994b3144d9b1afedc509_9245_300x300_fit_lanczos_3.png</url>
+      <title>過去の在籍メンバー</title>
+      <link>/ja/alumni/</link>
+    </image>
+    
+  </channel>
+</rss>

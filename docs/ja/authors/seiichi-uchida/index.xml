@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seiichi Uchida | ISLab, Osaka University</title>
+    <link>/ja/authors/seiichi-uchida/</link>
+      <atom:link href="/ja/authors/seiichi-uchida/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seiichi Uchida</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/logo_hu395f5bc88680994b3144d9b1afedc509_9245_300x300_fit_lanczos_3.png</url>
+      <title>Seiichi Uchida</title>
+      <link>/ja/authors/seiichi-uchida/</link>
+    </image>
+    
+    <item>
+      <title>Deep Bayesian Active Learning-to-Rank with Relative Annotation for Estimation of Ulcerative Colitis Severity</title>
+      <link>/ja/publication/kadota-2024-deep/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/kadota-2024-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudo-Label Learning with Calibrated Confidence Using an Energy-Based Model</title>
+      <link>/ja/publication/toba-2024-pseudo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/toba-2024-pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Font Style Usage and Contextual Factors in Real Images</title>
+      <link>/ja/publication/yasukochi-2023-analyzing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yasukochi-2023-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Bayesian Active Learning to Rank for Endoscopic Image Data</title>
+      <link>/ja/publication/kadota-2022-deep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/kadota-2022-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zekun Yang | ISLab, Osaka University</title>
+    <link>/ja/authors/zekun-yang/</link>
+      <atom:link href="/ja/authors/zekun-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zekun Yang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/zekun-yang/avatar_hu3630e481e1019c912ace1e7f94f11f60_7301736_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Zekun Yang</title>
+      <link>/ja/authors/zekun-yang/</link>
+    </image>
+    
+    <item>
+      <title>Multi-modal humor segment prediction in video</title>
+      <link>/ja/publication/yang-2023-multi/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yang-2023-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of language Transformers for video question answering</title>
+      <link>/ja/publication/yang-2021-bert/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yang-2021-bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The laughing machine: Predicting humor in video</title>
+      <link>/ja/publication/kayatani-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/kayatani-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowledge VQA</title>
+      <link>/ja/project/kiban_b-kvqa/</link>
+      <pubDate>Wed, 01 Jul 2020 10:13:28 +0900</pubDate>
+      <guid>/ja/project/kiban_b-kvqa/</guid>
+      <description>&lt;p&gt;知識を要する画像・映像に関する質疑応答（Knowledge Visual Question Answering; KVQA）は、画像・映像に関する質問で、回答に知識を必要とするタスクです。知識を要求するこの新しいタスクは、今までのタスクと同様画像・映像の理解に加えて、どうやって知識を収集するのか、回答生成時にどうやって（外部）知識を取り入れるのか、という新しいチャレンジが必要になります。&lt;/p&gt;
+&lt;p&gt;このプロジェクトでは、&lt;a href=&#34;https://knowit-vqa.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KVQAのための新しいデータセット&lt;/a&gt;を構築し、公開しています。この成果は、人工知能分野のトップカンファレンスの一つである&lt;a href=&#34;https://aaai.org/Conferences/AAAI-20/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AAAI 2020&lt;/a&gt;で発表しました。&lt;/p&gt;
+&lt;p&gt;また、深層学習などでの利用にあたって映像をどのように表現するかは、質疑応答をはじめとする様々なタスクにおいて主要な研究課題となっています。特に、視覚と自然言語を入力とするタスクでは、モデルが自然言語ばかり注目するような現象もあるようで、難しい問題です。このプロジェクトでは、映像をテキストで表現するアプローチ（キャプション生成のような教師ありの手法ではなく、映像から必要なオブジェクトなどを検出してルールベースでテキストを生成する手法）を採用し、既存手法と比較しています。この成果は、コンピュータビジョン分野のトップカンファレンスの一つである&lt;a href=&#34;https://eccv2020.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECCV 2020&lt;/a&gt;で発表しました。&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/KCUUvSpf-Qo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br/&gt;
+&lt;p&gt;関連した研究として、絵画に関するQAについても取り組んでいます。&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/I78SoOkH3dM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;publications&#34;&gt;Publications&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Noa Garcia, Chentao Ye, Zihua Liu, Qingtao Hu, Mayu Otani, Chenhui Chu, Yuta Nakashima, and Teruko Mitamura (2020). &lt;a href=&#34;https://arxiv.org/abs/2008.12520&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Dataset and Baselines for Visual Question Answering on Art&lt;/a&gt;. Proc. European Computer Vision Conference Workshops.&lt;/li&gt;
+&lt;li&gt;Noa Garcia and Yuta Nakashima (2020). &lt;a href=&#34;https://arxiv.org/abs/2007.08751&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Knowledge-Based VideoQA with Unsupervised Scene Descriptions&lt;/a&gt;. Proc. European Conference on Computer Vision.&lt;/li&gt;
+&lt;li&gt;Noa Garcia, Mayu Otani, Chenhui Chu, and Yuta Nakashima (2020). KnowIT VQA: Answering knowledge-based questions about videos. Proc. AAAI Conference on Artificial Intelligence.&lt;/li&gt;
+&lt;li&gt;Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2020). BERT representations for video question answering. Proc. IEEE Winter Conference on Applications of Computer Vision.&lt;/li&gt;
+&lt;li&gt;Noa Garcia, Chenhui Chu, Mayu Otani, and Yuta Nakashima (2019). Video meets knowledge in visual question answering. MIRU.&lt;/li&gt;
+&lt;li&gt;Zekun Yang, Noa Garcia, Chenhui Chu, Mayu Otani, Yuta Nakashima, and Haruo Takemura (2019). Video question answering with BERT. MIRU.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BERT representations for video question answering</title>
+      <link>/ja/publication/yang-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yang-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

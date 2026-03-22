@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吉田道隆 | ISLab, Osaka University</title>
+    <link>/ja/authors/michitaka-yoshida/</link>
+      <atom:link href="/ja/authors/michitaka-yoshida/index.xml" rel="self" type="application/rss+xml" />
+    <description>吉田道隆</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ja</language>
+    <image>
+      <url>/ja/authors/michitaka-yoshida/avatar_hu0c5db0758253a66e81b547b57b7d11d8_10033346_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>吉田道隆</title>
+      <link>/ja/authors/michitaka-yoshida/</link>
+    </image>
+    
+    <item>
+      <title>Compressive Acquisition of Light Field Video Using Aperture-Exposure-Coded Camera</title>
+      <link>/ja/publication/mizuno-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/mizuno-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Sensing for Compressive Video Acquisition</title>
+      <link>/ja/publication/yoshida-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yoshida-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acquiring a Dynamic Light Field Through a Single-Shot Coded Image</title>
+      <link>/ja/publication/mizuno-2022-dynamic/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/mizuno-2022-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Action recognition from a single coded image</title>
+      <link>/ja/publication/okawara-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/okawara-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure</title>
+      <link>/ja/publication/yoshida-2019-highspeed/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yoshida-2019-highspeed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint optimization for compressive video sensing and reconstruction under hardware constraints</title>
+      <link>/ja/publication/yoshida-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/ja/publication/yoshida-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
