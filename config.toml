@@ -5,5 +5,5 @@
 # If you are not using those tools, this file may be deleted.
 #
 # The actual configuration files are stored in the `config/_default/` folder.
-baseURL = "https://ids-cv.github.io"
+baseURL = "https://ids-cv.github.io/islab-d3c-website/"
 publishDir = "docs"
