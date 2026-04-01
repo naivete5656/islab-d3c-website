@@ -18,7 +18,7 @@ organizations:
   url: "https://www.d3c.osaka-u.ac.jp/en/"
 #- name: Graduate School of Information Science and Technology
 #  url: "https://www.ist.osaka-u.ac.jp/"
-- name: Osaka University
+- name: The University of Osaka
   url: "https://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -75,9 +75,9 @@ user_groups:
 #- Visitors
 ---
 
-ISLab is a research group with Graduate School of Information Science and Technology, Osaka University, also known as Artificial Intelligence and Mathematics Group with D3 Center, Osaka University.
+ISLab is a research group with Graduate School of Information Science and Technology, the University of Osaka, also known as Artificial Intelligence and Mathematics Group with D3 Center, the University of Osaka.
 
-As a research institute with a mission to provide data science-related technologies to everyone, we are collaborating with various departments in Osaka University and other research institutes, as well as companies. As ISLab, a part of the Graduate School of Information Science and Technology, we work with students to motivate them and cultivate their interests in research as well as knowledge in related fields. 
+As a research institute with a mission to provide data science-related technologies to everyone, we are collaborating with various departments in the University of Osaka and other research institutes, as well as companies. As ISLab, a part of the Graduate School of Information Science and Technology, we work with students to motivate them and cultivate their interests in research as well as knowledge in related fields. 
 
 ### We are hiring!
 

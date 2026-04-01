@@ -21,7 +21,7 @@ organizations:
   url: "https://iacs.osaka-u.ac.jp/en/"
 - name: "D3 Center"
   url: "https://www.d3c.osaka-u.ac.jp/en/"
-- name: "Osaka University"
+- name: "The University of Osaka"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)

@@ -18,7 +18,7 @@ role: Undergraduate Student
 organizations:
 - name: "School of Engeneering"
   url: "https://www.eng.osaka-u.ac.jp/en/"
-- name: "Osaka University"
+- name: "The University of Osaka"
   url: "http://www.osaka-u.ac.jp/"
 
 

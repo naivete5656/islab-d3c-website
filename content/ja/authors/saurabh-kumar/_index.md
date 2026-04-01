@@ -24,7 +24,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Saurabh Kumar is a research fellow with the Intelligence and Sensing lab at the Institute of Datability Science, Osaka University. His research interests are intelligent data acquisition, computational imaging, computer vision, and scientific machine learning. "
+bio: "Saurabh Kumar is a research fellow with the Intelligence and Sensing lab at the Institute of Datability Science, the University of Osaka. His research interests are intelligent data acquisition, computational imaging, computer vision, and scientific machine learning. "
 
 # List each interest with a dash
 interests:

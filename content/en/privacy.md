@@ -18,7 +18,7 @@ Last update: June 15, 2022
 <br />
 
 
-We follow [Osaka University Privacy Policy](https://www.osaka-u.ac.jp/en/misc/privacy.html) for handling personal information in this website (hereinafter, the Website). 
+We follow [the University of Osaka Privacy Policy](https://www.osaka-u.ac.jp/en/misc/privacy.html) for handling personal information in this website (hereinafter, the Website). 
 
 ### Collection of user information
 

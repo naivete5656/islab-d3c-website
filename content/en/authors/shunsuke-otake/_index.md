@@ -18,7 +18,7 @@ role: Graduate Student
 organizations:
 - name: "Graduate School of Information Science and Technology"
   url: "https://www.ist.osaka-u.ac.jp/english/"
-- name: "Osaka University"
+- name: "The University of Osaka"
   url: "http://www.osaka-u.ac.jp/"
 
 

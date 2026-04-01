@@ -31,9 +31,9 @@ ISLab is opening a few postdoctoral positions for computer vision and/or machine
 
 ## About ISLab
 
-ISLab is a research group at Osaka University, Japan, affiliated with [D3 Center (IDS)](https://www.d3c.osaka-u.ac.jp/en/), Osaka University. Our mission includes providing/transferring the latest machine learning and data science techniques to other departments/institutes at Osaka University or any other organizations (e.g., universities and companies) through interdisciplinary collaborative research projects. 
+ISLab is a research group at the University of Osaka, Japan, affiliated with [D3 Center (IDS)](https://www.d3c.osaka-u.ac.jp/en/), the University of Osaka. Our mission includes providing/transferring the latest machine learning and data science techniques to other departments/institutes at the University of Osaka or any other organizations (e.g., universities and companies) through interdisciplinary collaborative research projects. 
 
-ISLab is also affiliated with [Graduate School of Information Science and Technology, Osaka University](https://www.ist.osaka-u.ac.jp/english/), and we cultivate undergraduate and graduate students' skills and knowledge in computer vision, machine learning, natural language processing, and related fields. 
+ISLab is also affiliated with [Graduate School of Information Science and Technology, the University of Osaka](https://www.ist.osaka-u.ac.jp/english/), and we cultivate undergraduate and graduate students' skills and knowledge in computer vision, machine learning, natural language processing, and related fields. 
 
 ## Qualifications
 
@@ -62,7 +62,7 @@ All our researchers can use 20% of their time for their own research projects an
 
 ## Compensation
 
-The salary is based on [the Osaka University's regulation](https://www.osaka-u.ac.jp/kitei/reiki_honbun/u035RG00000535.html?id=j21_k1) (Japanese only), basically around 5,000,000 to 6,000,000 JPY. Some taxes and insurance fees (including health and employment insurance) will be deducted. The university regulation also offers paid leaves. 
+The salary is based on [the University of Osaka's regulation](https://www.osaka-u.ac.jp/kitei/reiki_honbun/u035RG00000535.html?id=j21_k1) (Japanese only), basically around 5,000,000 to 6,000,000 JPY. Some taxes and insurance fees (including health and employment insurance) will be deducted. The university regulation also offers paid leaves. 
 
 ## Are you interested in working with us?
 

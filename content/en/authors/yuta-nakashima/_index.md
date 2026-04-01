@@ -19,11 +19,11 @@ group: Artificial Intelligence and Mathematics
 organizations:
 - name: "D3 Center"
   url: "https://www.d3c.osaka-u.ac.jp/en/"
-- name: "Osaka University"
+- name: "The University of Osaka"
   url: "http://www.osaka-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yuta Nakashima is a professor with D3 Center, Osaka University. His research interests include computer vision, pattern recognition, natural langauge processing, and their applications.
+bio: Yuta Nakashima is a professor with D3 Center, the University of Osaka. His research interests include computer vision, pattern recognition, natural langauge processing, and their applications.
 
 # List each interest with a dash
 interests:

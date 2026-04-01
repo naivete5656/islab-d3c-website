@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ISLab, Osaka University</title>
+    <title>ISLab, the University of Osaka</title>
     <link>/en/</link>
       <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>ISLab, Osaka University</description>
+    <description>ISLab, the University of Osaka</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/logo_hu395f5bc88680994b3144d9b1afedc509_9245_300x300_fit_lanczos_3.png</url>
-      <title>ISLab, Osaka University</title>
+      <title>ISLab, the University of Osaka</title>
       <link>/en/</link>
     </image>
     
@@ -973,8 +973,8 @@ and STARE, respectively, which currently are the best scores in the literature.&
       <guid>/en/post/we-are-hiring/</guid>
       <description>&lt;p&gt;ISLab is opening a few postdoctoral positions for computer vision and/or machine learning researchers.&lt;/p&gt;
 &lt;h2 id=&#34;about-islab&#34;&gt;About ISLab&lt;/h2&gt;
-&lt;p&gt;ISLab is a research group at Osaka University, Japan, affiliated with &lt;a href=&#34;https://www.d3c.osaka-u.ac.jp/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D3 Center (IDS)&lt;/a&gt;, Osaka University. Our mission includes providing/transferring the latest machine learning and data science techniques to other departments/institutes at Osaka University or any other organizations (e.g., universities and companies) through interdisciplinary collaborative research projects.&lt;/p&gt;
-&lt;p&gt;ISLab is also affiliated with &lt;a href=&#34;https://www.ist.osaka-u.ac.jp/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate School of Information Science and Technology, Osaka University&lt;/a&gt;, and we cultivate undergraduate and graduate students&amp;rsquo; skills and knowledge in computer vision, machine learning, natural language processing, and related fields.&lt;/p&gt;
+&lt;p&gt;ISLab is a research group at the University of Osaka, Japan, affiliated with &lt;a href=&#34;https://www.d3c.osaka-u.ac.jp/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;D3 Center (IDS)&lt;/a&gt;, the University of Osaka. Our mission includes providing/transferring the latest machine learning and data science techniques to other departments/institutes at the University of Osaka or any other organizations (e.g., universities and companies) through interdisciplinary collaborative research projects.&lt;/p&gt;
+&lt;p&gt;ISLab is also affiliated with &lt;a href=&#34;https://www.ist.osaka-u.ac.jp/english/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate School of Information Science and Technology, the University of Osaka&lt;/a&gt;, and we cultivate undergraduate and graduate students&amp;rsquo; skills and knowledge in computer vision, machine learning, natural language processing, and related fields.&lt;/p&gt;
 &lt;h2 id=&#34;qualifications&#34;&gt;Qualifications&lt;/h2&gt;
 &lt;p&gt;We are looking for postdoctoral researchers who are an expert in and have some publications on (but not limited to):&lt;/p&gt;
 &lt;ul&gt;
@@ -996,7 +996,7 @@ and STARE, respectively, which currently are the best scores in the literature.&
 &lt;p&gt;All our researchers and students are encouraged to submit papers to top conferences like CVPR, ICCV, ECCV, ICLR, ICCP, etc. (we have 5 papers at CVPR 2023 and 4 at CVPR 2022). We welcome researchers who can lead individual projects from the very beginning of their lifecycle (i.e., project proposals given a specific application or a topic) in collaboration with the faculty members. Interested researchers may advise undergraduate or graduate students.&lt;/p&gt;
 &lt;p&gt;All our researchers can use 20% of their time for their own research projects and are encouraged to submit applications for funding.&lt;/p&gt;
 &lt;h2 id=&#34;compensation&#34;&gt;Compensation&lt;/h2&gt;
-&lt;p&gt;The salary is based on &lt;a href=&#34;https://www.osaka-u.ac.jp/kitei/reiki_honbun/u035RG00000535.html?id=j21_k1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Osaka University&amp;rsquo;s regulation&lt;/a&gt; (Japanese only), basically around 5,000,000 to 6,000,000 JPY. Some taxes and insurance fees (including health and employment insurance) will be deducted. The university regulation also offers paid leaves.&lt;/p&gt;
+&lt;p&gt;The salary is based on &lt;a href=&#34;https://www.osaka-u.ac.jp/kitei/reiki_honbun/u035RG00000535.html?id=j21_k1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the University of Osaka&amp;rsquo;s regulation&lt;/a&gt; (Japanese only), basically around 5,000,000 to 6,000,000 JPY. Some taxes and insurance fees (including health and employment insurance) will be deducted. The university regulation also offers paid leaves.&lt;/p&gt;
 &lt;h2 id=&#34;are-you-interested-in-working-with-us&#34;&gt;Are you interested in working with us?&lt;/h2&gt;
 &lt;p&gt;Please send your CV and research proposal to Prof. Hajime Nagahara at: contact&lt;i class=&#34;fas fa-at&#34;&gt;&lt;/i&gt;is.ids.osaka-u.ac.jp (replace &lt;i class=&#34;fas fa-at&#34;&gt;&lt;/i&gt; with @)&lt;/p&gt;
 &lt;p&gt;We welcome your application!&lt;/p&gt;
@@ -1416,7 +1416,7 @@ and STARE, respectively, which currently are the best scores in the literature.&
       <link>/en/post/prospective-students/</link>
       <pubDate>Thu, 03 Dec 2020 18:27:37 +0900</pubDate>
       <guid>/en/post/prospective-students/</guid>
-      <description>&lt;p&gt;We are looking for students who want to work with us as a part of our PhD degree program or master degree program. Please also refer to &lt;a href=&#34;https://www.ist.osaka-u.ac.jp/english/admission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this page (Graduate School of Information Science and Technology, Osaka University)&lt;/a&gt; for more details on the admission.&lt;/p&gt;
+      <description>&lt;p&gt;We are looking for students who want to work with us as a part of our PhD degree program or master degree program. Please also refer to &lt;a href=&#34;https://www.ist.osaka-u.ac.jp/english/admission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this page (Graduate School of Information Science and Technology, the University of Osaka)&lt;/a&gt; for more details on the admission.&lt;/p&gt;
 &lt;p&gt;ISLab&amp;rsquo;s first priority is research projects, and we welcome students who have published papers as the first author or who have accomplished some research projects and can well present about them.&lt;/p&gt;
 &lt;p&gt;For students who have no or less experience in working on research projects, we have a &lt;strong&gt;6-month&lt;/strong&gt; internship program (with a limited capacity) so that you can try a project with aiming at submitting a paper to some conference and that we can see how you work.&lt;/p&gt;
 &lt;h3 id=&#34;if-you-are-interested-in-working-with-us&#34;&gt;If you are interested in working with us:&lt;/h3&gt;
@@ -1557,7 +1557,7 @@ and STARE, respectively, which currently are the best scores in the literature.&
       <link>/en/project/australian-history/</link>
       <pubDate>Wed, 01 Jul 2020 10:13:06 +0900</pubDate>
       <guid>/en/project/australian-history/</guid>
-      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;http://www.let.osaka-u.ac.jp/seiyousi/fujikawa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Fujikawa&lt;/a&gt; at Graduate School of Letters, Osaka University, we are working on exploring Australian history through public meetings, of which call for participation appears in newspapers from back then.&lt;/p&gt;
+      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;http://www.let.osaka-u.ac.jp/seiyousi/fujikawa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Fujikawa&lt;/a&gt; at Graduate School of Letters, the University of Osaka, we are working on exploring Australian history through public meetings, of which call for participation appears in newspapers from back then.&lt;/p&gt;
 &lt;p&gt;We explore ways to analyze such newspapers with state-of-the-art technologies in NLP to make OCR output better and to automatically detect/structure call for participation.&lt;/p&gt;
 </description>
     </item>
@@ -1586,7 +1586,7 @@ and STARE, respectively, which currently are the best scores in the literature.&
       <link>/en/project/society5_0/</link>
       <pubDate>Wed, 01 Jul 2020 10:07:15 +0900</pubDate>
       <guid>/en/project/society5_0/</guid>
-      <description>&lt;p&gt;D3 Center, Osaka University is now working on &lt;a href=&#34;https://www.ildi.ids.osaka-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Society 5.0&lt;/a&gt; using information science and technology.&lt;/p&gt;
+      <description>&lt;p&gt;D3 Center, the University of Osaka is now working on &lt;a href=&#34;https://www.ildi.ids.osaka-u.ac.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Society 5.0&lt;/a&gt; using information science and technology.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In the world of Society 5.0, innovations in IoT, Big Data, robotics, and AI will be part of everyday life, helping people lead active and high-quality lives, creating a super-smart society. This project encourages collaboration across projects and university organizations, thus promoting faster adoption of research results in real-world society.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1652,7 +1652,7 @@ and STARE, respectively, which currently are the best scores in the literature.&
       <link>/en/project/ai-hospital/</link>
       <pubDate>Wed, 01 Jul 2020 10:05:12 +0900</pubDate>
       <guid>/en/project/ai-hospital/</guid>
-      <description>&lt;p&gt;Osaka University Medical Hospital has launched &lt;a href=&#34;https://www.hosp.med.osaka-u.ac.jp/english/departments/ai.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificical Intelligence Center for Medical Research and Application (AIM)&lt;/a&gt;, which supports physicians, nurses, and all the medical staff collaborating with medical information specialists and data scientists to boost the medical application of AI in daily practices of the hospital.&lt;/p&gt;
+      <description>&lt;p&gt;The University of Osaka Medical Hospital has launched &lt;a href=&#34;https://www.hosp.med.osaka-u.ac.jp/english/departments/ai.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificical Intelligence Center for Medical Research and Application (AIM)&lt;/a&gt;, which supports physicians, nurses, and all the medical staff collaborating with medical information specialists and data scientists to boost the medical application of AI in daily practices of the hospital.&lt;/p&gt;
 &lt;p&gt;We are collaborating with AIM to provide cutting-edge technologies.&lt;/p&gt;
 &lt;h2 id=&#34;ophthalmology-and-ai&#34;&gt;Ophthalmology and AI&lt;/h2&gt;
 &lt;p&gt;In ophthalmology or any other departments, vessels in retinal fundus images provide rich information on the cardiovascular system of human bodies. We proposed a state-of-the-art method, coined &lt;a href=&#34;publication/li-2020-a/&#34;&gt;IterNet&lt;/a&gt; for extracting vessels from retinal fundus images as in the (e) in the figure below.&lt;/p&gt;
@@ -1733,7 +1733,7 @@ and STARE, respectively, which currently are the best scores in the literature.&
       <link>/en/project/green_law/</link>
       <pubDate>Wed, 17 Jun 2020 23:02:32 +0900</pubDate>
       <guid>/en/project/green_law/</guid>
-      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;https://researchmap.jp/read0180483?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Noriko Okubo&lt;/a&gt; at Graduate School of Law and Politics, Osaka University, we are studying to automatically evaluate how green laws are enforced in different countries.&lt;/p&gt;
+      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;https://researchmap.jp/read0180483?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Noriko Okubo&lt;/a&gt; at Graduate School of Law and Politics, the University of Osaka, we are studying to automatically evaluate how green laws are enforced in different countries.&lt;/p&gt;
 &lt;p&gt;Green laws&amp;rsquo; participation principle consists of 1) the information access right, 2) participation in the policy decision process, 3) the judicial access; however, actual implementation varies country to country, and legal methodologies have been explored for evaluating their effectiveness. This work investigates legal evaluation criteria on the green laws&amp;rsquo; participation principle, analyzes Japanese participation system&amp;rsquo;s pros and cons in a comparative perspective, and propose some recommendations to establish the environmental democracy.&lt;/p&gt;
 &lt;p&gt;The difficulty lies in how to automatically find out related legislations, cases, statutes, etc. in different languages. As the first attempt, we proposed a method for identifying the topic of such legal documents through analyzing citation networks in addition to classic topic modeling. The figure below shows citation networks among different types of legal documents (e.g., cases-prior cases).&lt;/p&gt;
 
@@ -1774,7 +1774,7 @@ and STARE, respectively, which currently are the best scores in the literature.&
       <link>/en/project/buddha-face/</link>
       <pubDate>Wed, 17 Jun 2020 22:52:41 +0900</pubDate>
       <guid>/en/project/buddha-face/</guid>
-      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;http://www.dma.jim.osaka-u.ac.jp/view?l=en&amp;amp;u=6617&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Fujioka&lt;/a&gt; with Graduate School of Letters/School of Letters, Osaka University, we are attempting to create an AI for analyzing various aspects of Buddha faces in images.&lt;/p&gt;
+      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;http://www.dma.jim.osaka-u.ac.jp/view?l=en&amp;amp;u=6617&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Fujioka&lt;/a&gt; with Graduate School of Letters/School of Letters, the University of Osaka, we are attempting to create an AI for analyzing various aspects of Buddha faces in images.&lt;/p&gt;
 &lt;p&gt;Focusing on the face of the Buddha image, i.e., &amp;ldquo;Buddha face&amp;rdquo;, we analyze the characteristics of the style of each region, era, and author using statistical and machine learning approaches based on images and 3D geometric data, building a genealogy of Buddha faces. This is to realize style judgment based on the knowledge obtained from data, not based on the experience of art historians, which promotes the globalization of the Buddha statue research and also helps to identify the genealogy of Buddha faces propagated through the Silk Road, giving a new perspective on the spread of culture in Asia.&lt;/p&gt;
 &lt;p&gt;We have built several interfaces to browse through a large corpus of precious Buddha faces for facilitating annotations on the basic meta-data on the statues, which will then serve as a source to train more sophisticated models for analyzing them.&lt;/p&gt;
 
@@ -2250,7 +2250,7 @@ and STARE, respectively, which currently are the best scores in the literature.&
 Last update: June 15, 2022
 &lt;/div&gt;
 &lt;br /&gt;
-&lt;p&gt;We follow &lt;a href=&#34;https://www.osaka-u.ac.jp/en/misc/privacy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Osaka University Privacy Policy&lt;/a&gt; for handling personal information in this website (hereinafter, the Website).&lt;/p&gt;
+&lt;p&gt;We follow &lt;a href=&#34;https://www.osaka-u.ac.jp/en/misc/privacy.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The University of Osaka Privacy Policy&lt;/a&gt; for handling personal information in this website (hereinafter, the Website).&lt;/p&gt;
 &lt;h3 id=&#34;collection-of-user-information&#34;&gt;Collection of user information&lt;/h3&gt;
 &lt;p&gt;We may collect your personal information through the Website for some specific purposes (e.g., registration to related events, sending an email for inquery, and improving user experience on the Website). For this, we shall clarify the purpose(s) of personal information collection, and the collected personal information shall be used only for the purpose(s).&lt;/p&gt;
 &lt;p&gt;In the event that we share such collected personal information with a third party, we shall first make a nondisclosure contract with such party in order to ensure the proper use of such information.&lt;/p&gt;

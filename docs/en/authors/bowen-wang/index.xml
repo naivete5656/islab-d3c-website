@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bowen Wang | ISLab, Osaka University</title>
+    <title>Bowen Wang | ISLab, the University of Osaka</title>
     <link>/en/authors/bowen-wang/</link>
       <atom:link href="/en/authors/bowen-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Bowen Wang</description>
@@ -105,7 +105,7 @@
       <link>/en/project/ai-hospital/</link>
       <pubDate>Wed, 01 Jul 2020 10:05:12 +0900</pubDate>
       <guid>/en/project/ai-hospital/</guid>
-      <description>&lt;p&gt;Osaka University Medical Hospital has launched &lt;a href=&#34;https://www.hosp.med.osaka-u.ac.jp/english/departments/ai.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificical Intelligence Center for Medical Research and Application (AIM)&lt;/a&gt;, which supports physicians, nurses, and all the medical staff collaborating with medical information specialists and data scientists to boost the medical application of AI in daily practices of the hospital.&lt;/p&gt;
+      <description>&lt;p&gt;The University of Osaka Medical Hospital has launched &lt;a href=&#34;https://www.hosp.med.osaka-u.ac.jp/english/departments/ai.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificical Intelligence Center for Medical Research and Application (AIM)&lt;/a&gt;, which supports physicians, nurses, and all the medical staff collaborating with medical information specialists and data scientists to boost the medical application of AI in daily practices of the hospital.&lt;/p&gt;
 &lt;p&gt;We are collaborating with AIM to provide cutting-edge technologies.&lt;/p&gt;
 &lt;h2 id=&#34;ophthalmology-and-ai&#34;&gt;Ophthalmology and AI&lt;/h2&gt;
 &lt;p&gt;In ophthalmology or any other departments, vessels in retinal fundus images provide rich information on the cardiovascular system of human bodies. We proposed a state-of-the-art method, coined &lt;a href=&#34;publication/li-2020-a/&#34;&gt;IterNet&lt;/a&gt; for extracting vessels from retinal fundus images as in the (e) in the figure below.&lt;/p&gt;

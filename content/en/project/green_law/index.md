@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-In collaboration with [Prof. Noriko Okubo](https://researchmap.jp/read0180483?lang=en) at Graduate School of Law and Politics, Osaka University, we are studying to automatically evaluate how green laws are enforced in different countries. 
+In collaboration with [Prof. Noriko Okubo](https://researchmap.jp/read0180483?lang=en) at Graduate School of Law and Politics, the University of Osaka, we are studying to automatically evaluate how green laws are enforced in different countries. 
 
 Green laws' participation principle consists of 1) the information access right, 2) participation in the policy decision process, 3) the judicial access; however, actual implementation varies country to country, and legal methodologies have been explored for evaluating their effectiveness. This work investigates legal evaluation criteria on the green laws' participation principle, analyzes Japanese participation system's pros and cons in a comparative perspective, and propose some recommendations to establish the environmental democracy.
  

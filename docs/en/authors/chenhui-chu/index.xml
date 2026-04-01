@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chenhui Chu | ISLab, Osaka University</title>
+    <title>Chenhui Chu | ISLab, the University of Osaka</title>
     <link>/en/authors/chenhui-chu/</link>
       <atom:link href="/en/authors/chenhui-chu/index.xml" rel="self" type="application/rss+xml" />
     <description>Chenhui Chu</description>
@@ -153,7 +153,7 @@
       <link>/en/project/australian-history/</link>
       <pubDate>Wed, 01 Jul 2020 10:13:06 +0900</pubDate>
       <guid>/en/project/australian-history/</guid>
-      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;http://www.let.osaka-u.ac.jp/seiyousi/fujikawa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Fujikawa&lt;/a&gt; at Graduate School of Letters, Osaka University, we are working on exploring Australian history through public meetings, of which call for participation appears in newspapers from back then.&lt;/p&gt;
+      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;http://www.let.osaka-u.ac.jp/seiyousi/fujikawa.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Fujikawa&lt;/a&gt; at Graduate School of Letters, the University of Osaka, we are working on exploring Australian history through public meetings, of which call for participation appears in newspapers from back then.&lt;/p&gt;
 &lt;p&gt;We explore ways to analyze such newspapers with state-of-the-art technologies in NLP to make OCR output better and to automatically detect/structure call for participation.&lt;/p&gt;
 </description>
     </item>
@@ -163,7 +163,7 @@
       <link>/en/project/green_law/</link>
       <pubDate>Wed, 17 Jun 2020 23:02:32 +0900</pubDate>
       <guid>/en/project/green_law/</guid>
-      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;https://researchmap.jp/read0180483?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Noriko Okubo&lt;/a&gt; at Graduate School of Law and Politics, Osaka University, we are studying to automatically evaluate how green laws are enforced in different countries.&lt;/p&gt;
+      <description>&lt;p&gt;In collaboration with &lt;a href=&#34;https://researchmap.jp/read0180483?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Noriko Okubo&lt;/a&gt; at Graduate School of Law and Politics, the University of Osaka, we are studying to automatically evaluate how green laws are enforced in different countries.&lt;/p&gt;
 &lt;p&gt;Green laws&amp;rsquo; participation principle consists of 1) the information access right, 2) participation in the policy decision process, 3) the judicial access; however, actual implementation varies country to country, and legal methodologies have been explored for evaluating their effectiveness. This work investigates legal evaluation criteria on the green laws&amp;rsquo; participation principle, analyzes Japanese participation system&amp;rsquo;s pros and cons in a comparative perspective, and propose some recommendations to establish the environmental democracy.&lt;/p&gt;
 &lt;p&gt;The difficulty lies in how to automatically find out related legislations, cases, statutes, etc. in different languages. As the first attempt, we proposed a method for identifying the topic of such legal documents through analyzing citation networks in addition to classic topic modeling. The figure below shows citation networks among different types of legal documents (e.g., cases-prior cases).&lt;/p&gt;
 

@@ -39,7 +39,7 @@ url_video: ""
 # Otherwise, set `slides = ""`.
 slides: ""
 ---
-Osaka University Medical Hospital has launched [Artificical Intelligence Center for Medical Research and Application (AIM)](https://www.hosp.med.osaka-u.ac.jp/english/departments/ai.html), which supports physicians, nurses, and all the medical staff collaborating with medical information specialists and data scientists to boost the medical application of AI in daily practices of the hospital.
+The University of Osaka Medical Hospital has launched [Artificical Intelligence Center for Medical Research and Application (AIM)](https://www.hosp.med.osaka-u.ac.jp/english/departments/ai.html), which supports physicians, nurses, and all the medical staff collaborating with medical information specialists and data scientists to boost the medical application of AI in daily practices of the hospital.
 
 We are collaborating with AIM to provide cutting-edge technologies.
 

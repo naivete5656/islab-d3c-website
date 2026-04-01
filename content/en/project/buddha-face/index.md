@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-In collaboration with [Prof. Fujioka](http://www.dma.jim.osaka-u.ac.jp/view?l=en&u=6617) with Graduate School of Letters/School of Letters, Osaka University, we are attempting to create an AI for analyzing various aspects of Buddha faces in images. 
+In collaboration with [Prof. Fujioka](http://www.dma.jim.osaka-u.ac.jp/view?l=en&u=6617) with Graduate School of Letters/School of Letters, the University of Osaka, we are attempting to create an AI for analyzing various aspects of Buddha faces in images. 
 
 Focusing on the face of the Buddha image, i.e., "Buddha face", we analyze the characteristics of the style of each region, era, and author using statistical and machine learning approaches based on images and 3D geometric data, building a genealogy of Buddha faces. This is to realize style judgment based on the knowledge obtained from data, not based on the experience of art historians, which promotes the globalization of the Buddha statue research and also helps to identify the genealogy of Buddha faces propagated through the Silk Road, giving a new perspective on the spread of culture in Asia.
 

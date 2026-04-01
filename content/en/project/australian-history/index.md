@@ -39,6 +39,6 @@ url_video: ""
 # Otherwise, set `slides = ""`.
 slides: ""
 ---
-In collaboration with [Prof. Fujikawa](http://www.let.osaka-u.ac.jp/seiyousi/fujikawa.html) at Graduate School of Letters, Osaka University, we are working on exploring Australian history through public meetings, of which call for participation appears in newspapers from back then. 
+In collaboration with [Prof. Fujikawa](http://www.let.osaka-u.ac.jp/seiyousi/fujikawa.html) at Graduate School of Letters, the University of Osaka, we are working on exploring Australian history through public meetings, of which call for participation appears in newspapers from back then. 
 
 We explore ways to analyze such newspapers with state-of-the-art technologies in NLP to make OCR output better and to automatically detect/structure call for participation. 

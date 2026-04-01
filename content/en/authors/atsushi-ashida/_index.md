@@ -19,7 +19,7 @@ role: Specially-Appointed Assistant Professor
 organizations:
 - name: "D3 Center"
   url: "https://www.d3c.osaka-u.ac.jp/en/"
-- name: "Osaka University"
+- name: "The University of Osaka"
   url: "http://www.osaka-u.ac.jp/"
 
 

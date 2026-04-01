@@ -39,7 +39,7 @@ url_video: ""
 # Otherwise, set `slides = ""`.
 slides: ""
 ---
-D3 Center, Osaka University is now working on [Society 5.0](https://www.ildi.ids.osaka-u.ac.jp/) using information science and technology. 
+D3 Center, the University of Osaka is now working on [Society 5.0](https://www.ildi.ids.osaka-u.ac.jp/) using information science and technology. 
 
 > In the world of Society 5.0, innovations in IoT, Big Data, robotics, and AI will be part of everyday life, helping people lead active and high-quality lives, creating a super-smart society. This project encourages collaboration across projects and university organizations, thus promoting faster adoption of research results in real-world society.
 

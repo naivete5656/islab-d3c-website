@@ -113,7 +113,7 @@ role: {4}
 organizations:
 - name: "{5}"
   url: "{6}"
-- name: "Osaka University"
+- name: "The University of Osaka"
   url: "http://www.osaka-u.ac.jp/"
 
 

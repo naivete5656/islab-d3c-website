@@ -20,7 +20,7 @@ organizations:
   url: "https://www.d3c.osaka-u.ac.jp/en/"
 - name: "Graduate School of Information Science and Technology"
   url: "http://www.ist.osaka-u.ac.jp/"
-- name: "Osaka University"
+- name: "The University of Osaka"
   url: "http://www.osaka-u.ac.jp/"
 
 
