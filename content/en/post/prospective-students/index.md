@@ -28,11 +28,11 @@ image:
 projects: []
 ---
 
-We are looking for students who want to work with us as a part of our PhD degree program or master degree program. Please also refer to [this page (Graduate School of Information Science and Technology, Osaka University)](https://www.ist.osaka-u.ac.jp/english/admission/) for more details on the admission. 
+We are looking for students who want to work with us as a part of our PhD degree program or master degree program. Please also refer to [this page (Graduate School of Information Science and Technology, The University of Osaka)](https://www.ist.osaka-u.ac.jp/english/examinees/) for more details on the admission. 
 
 ISLab's first priority is research projects, and we welcome students who have published papers as the first author or who have accomplished some research projects and can well present about them.
 
 For students who have no or less experience in working on research projects, we have a **6-month** internship program (with a limited capacity) so that you can try a project with aiming at submitting a paper to some conference and that we can see how you work.
 
 ### If you are interested in working with us:
-Please send an email at `contact@is` with adding `.ids.osaka-u.ac.jp` 
+Please send an email at `contact@is` with adding `.ids.osaka-u.ac.jp` with your CV attached.
