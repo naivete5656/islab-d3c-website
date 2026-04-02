@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Keep Updated"
+title = "News"
 subtitle = ""
 
 [design]
@@ -50,10 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
-<!-- - :sparkles: A new member joined on April 16th: Jovana Panic. Welcome to Osaka, Japan! -->
-<!-- - :sparkles: New members joined on April 12th: Yuuki Kusu, Naoya Fukui, Yuta Murakami, Kim Hakmin, and Ryota Manaka. Enjoy your life with us! -->
-- :sparkles: New members joined on April 1st: Wang Junqi, Bai Jihong, and Meng Siyuan. Welcome!
-- :tada: One paper is accepted to CVPR 2025 :tada:
-  - "NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics" by Chenhao Li, Taishi Ono, Takeshi Uemori, Sho Nitta, Hajime Mihara, Alexander Gatto, Hajime Nagahara, Yusuke Moriuchi
-- :tada: One paper is accepted to ICLR 2025 :tada:
-  - "Gaussian-Based Instance-Adaptive Intensity Modeling for Point-Supervised Facial Expression Spotting" by Yicheng Deng, Hideaki Hayashi, Hajime Nagahara
+- :sparkles: New members joined on April 1st, 2026: Prof. Satoshi Yagi, Dr. José Reinaldo, Toshiaki Tanaka, Taiga Hashida, Keiichiro Iwamoto, and Li Han. Welcome!
+- :tada: Two paper are accepted to CVPR 2026 :tada:
+  - "BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment" by Risa Shinoda,  Kaede Shiohara, Nakamasa Inoue, Kuniaki Saito, Hiroaki Santo, and Fumio Okura.
+  - "Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images" by Kazuya Nishimura, Ryoma Bise, Shinnosuke Matsuo, Haruka Hirose, and Yasuhiro Kojima.
+  - "EMMA: Concept Erasure Benchmark with Comprehensive Semantic Metrics and Diverse Categories" by Lu Wei, Yuta Nakashima, and Noa Garcia.
+- :tada: One paper is accepted to ICLR 2026 :tada:
+  - "Unified Facial Action Representation Learning for Micro-Expression Analysis" by Yicheng Deng, Hideaki Hayashi, and Hajime Nagahara.

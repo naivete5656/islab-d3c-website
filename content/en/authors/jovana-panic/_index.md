@@ -2,7 +2,7 @@
 # Display name
 title: "Jovana Panic"
 
-weight: 58
+weight: 60
 
 # Username (this should match the folder name and the name on publications)
 authors:

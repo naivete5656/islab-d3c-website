@@ -2,7 +2,7 @@
 # Display name
 title: "Yankun Wu"
 
-weight: 70
+weight: 61
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -69,11 +69,10 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 研究員
-- 専任
 
 ---
 ### Contact
-- email: yankun@is.ids.
+weight: 61
 
 
 Please add `osaka-u.ac.jp` to complete email address

@@ -2,7 +2,7 @@
 # Display name
 title: "Jovana Panic"
 
-weight: 70
+weight: 60
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -73,7 +73,7 @@ user_groups:
 
 ---
 ### Contact
-- email: contact@ids.
+weight: 60
 
 
 Please add `osaka-u.ac.jp` to complete email address

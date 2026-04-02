@@ -2,7 +2,7 @@
 # Display name
 title: "芦田 淳"
 
-weight: 57
+weight: 50
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -71,9 +71,10 @@ user_groups:
 - 研究員
 - 専任
 
+
 ---
 ### Contact
-- email: ashida@ids.
+weight: 50
 
 
 Please add `osaka-u.ac.jp` to complete email address

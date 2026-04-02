@@ -2,7 +2,7 @@
 # Display name
 title: "Bilel Daoud"
 
-weight: 58
+weight: 51
 
 # Username (this should match the folder name and the name on publications)
 authors:

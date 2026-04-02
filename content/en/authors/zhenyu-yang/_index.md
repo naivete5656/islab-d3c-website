@@ -68,11 +68,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Guest Researchers
-- Fulltime
+- Alumni
 ---
 ### Contact
-- email: zhenyu.yang@ids.
+- email: zhenyu.yang@is.ids.
 
 
 Please add `osaka-u.ac.jp` to complete email address
