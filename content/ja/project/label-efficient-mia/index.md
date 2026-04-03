@@ -3,8 +3,8 @@
 
 title: "Label-efficient Medical Image Analysis"
 summary: "半教師あり学習や弱教師あり学習などのLabel-efficient learningを活用し、少ないアノテーションコストで高精度な医用画像解析を実現する手法の研究に取り組んでいます。"
-authors: []
-tags: []
+authors: ["Kazuya Nishimura"]
+tags: ["Medical Image Analysis", "Deep Learning", "Label-efficient Learning"]
 categories: []
 date: 2026-04-03T00:00:00+09:00
 

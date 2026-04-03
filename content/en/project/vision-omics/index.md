@@ -6,7 +6,7 @@ summary: "We develop machine learning methods for the integrated analysis of ima
 authors: ["Kazuya Nishimura"]
 tags: ["Multi-modal", "Omics Data", "Vision and Omics", "Machine Learning"]
 categories: []
-date: 2026-04-03T00:00:00+09:00
+date: 2026-04-02T00:00:00+09:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

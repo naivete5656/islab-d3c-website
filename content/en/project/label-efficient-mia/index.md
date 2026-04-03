@@ -6,7 +6,7 @@ summary: "We develop label-efficient learning methods—including semi-supervise
 authors: ["Kazuya Nishimura"]
 tags: ["Medical Image Analysis", "Deep Learning", "Label-efficient Learning"]
 categories: []
-date: 2026-04-03T00:00:00+09:00
+date: 2026-04-02T00:00:00+09:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
