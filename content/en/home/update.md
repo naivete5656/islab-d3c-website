@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-- :brain: We will hold a kickoff symposium at the University of Osaka on April 6, 2026! [[link]](https://www.deepsensing.org/events/symp_2026).
+- :brain: We will hold a kickoff symposium for the JST Top ASPIRE project at the University of Osaka on April 6, 2026! [[link]](https://www.deepsensing.org/events/symp_2026).
 - :sparkles: New members joined on April 1st, 2026: Prof. Satoshi Yagi, Dr. José Reinaldo, Toshiaki Tanaka, Taiga Hashida, Keiichiro Iwamoto, and Li Han. Welcome!
 - :tada: Four papers are accepted to CVPR 2026 :tada:
   - "BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment" by Risa Shinoda,  Kaede Shiohara, Nakamasa Inoue, Kuniaki Saito, Hiroaki Santo, and Fumio Okura.
@@ -58,5 +58,5 @@ subtitle = ""
   - "EMMA: Concept Erasure Benchmark with Comprehensive Semantic Metrics and Diverse Categories" by Lu Wei, Yuta Nakashima, and Noa Garcia.
   - "Coded-E2LF: Coded Aperture Light Field Imaging from Events" by Tomoya Tsuchida, Keita Takahashi, Chihiro Tsutake, Toshiaki Fujii and Hajime Nagahara.
 - :tada: One paper is accepted to ICLR 2026 :tada:
-  - "Unified Facial Action Representation Learning for Micro-Expression Analysis" by Yicheng Deng, Hideaki Hayashi, and Hajime Nagahara.
+  - "From Pixels to Semantics: Unified Facial Action Representation Learning for Micro-Expression Analysis" by Yicheng Deng, Hideaki Hayashi, and Hajime Nagahara.
 
