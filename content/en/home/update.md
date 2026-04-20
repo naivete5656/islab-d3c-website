@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+- :trophy: Kazuya Nishimura’s joint research with Kyushu University has received the IEEE ISBI 2026 Best Paper Award (Runner-Up)!
 - :sparkles: New members joined on April 1st, 2026: Prof. Satoshi Yagi, Dr. José Reinaldo, Toshiaki Tanaka, Taiga Hashida, Keiichiro Iwamoto, and Li Han. Welcome!
 - :tada: Two paper are accepted to CVPR 2026 :tada:
   - "BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment" by Risa Shinoda,  Kaede Shiohara, Nakamasa Inoue, Kuniaki Saito, Hiroaki Santo, and Fumio Okura.
