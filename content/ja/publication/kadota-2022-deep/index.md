@@ -7,7 +7,7 @@ authors:
 - Kiyohito Tanaka
 - Seiichi Uchida
 date: '2022-01-01'
-publishDate: '2026-07-23T03:38:50.651391Z'
+publishDate: '2026-07-30T01:08:09.868217Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 26th UK Conference on Medical Image Understanding

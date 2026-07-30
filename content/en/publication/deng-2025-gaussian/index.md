@@ -6,7 +6,7 @@ authors:
 - Hideaki Hayashi
 - Hajime Nagahara
 date: '2025-01-01'
-publishDate: '2026-07-23T03:38:47.322798Z'
+publishDate: '2026-07-30T01:08:07.791751Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 13th International Conference on Learning Representations

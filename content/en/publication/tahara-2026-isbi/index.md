@@ -4,7 +4,7 @@ title: 'Bridging the Density Gap: Diffusion Model for Stepwise Generation of Den
 authors:
 - Kazuya Nishimura, Shumpei Takezaki, Ryoma Bise Masashi Tahara
 date: '2026-01-01'
-publishDate: '2026-07-23T03:38:47.271022Z'
+publishDate: '2026-07-30T01:08:07.712236Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of IEEE International Symposium on Biomedical Imaging (ISBI)*'

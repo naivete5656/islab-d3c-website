@@ -6,7 +6,7 @@ authors:
 - Daichi Haraguchi
 - Seiichi Uchida
 date: '2023-01-01'
-publishDate: '2026-07-23T03:38:47.444992Z'
+publishDate: '2026-07-30T01:08:07.857134Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 17th International Conference on Document Analysis

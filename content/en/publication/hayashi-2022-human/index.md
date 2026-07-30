@@ -5,7 +5,7 @@ authors:
 - Hideaki Hayashi
 - Toshio Tsuji
 date: '2022-01-01'
-publishDate: '2026-07-23T03:38:47.307294Z'
+publishDate: '2026-07-30T01:08:07.767228Z'
 publication_types:
 - article-journal
 publication: '*IEEJ Transactions on Electrical and Electronic Engineering*'

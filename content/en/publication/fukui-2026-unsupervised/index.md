@@ -5,7 +5,7 @@ authors:
 - Hideaki Hayashi
 - Hajime Nagahara
 date: '2026-04-01'
-publishDate: '2026-07-23T03:38:47.249940Z'
+publishDate: '2026-07-30T01:08:07.680264Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of IEEE International Symposium on Biomedical Imaging (ISBI)*'

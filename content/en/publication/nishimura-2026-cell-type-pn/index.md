@@ -8,7 +8,7 @@ authors:
 - Haruka Hirose
 - Yasuhiro Kojima
 date: '2026-01-01'
-publishDate: '2026-07-23T03:38:47.291790Z'
+publishDate: '2026-07-30T01:08:07.743597Z'
 publication_types:
 - paper-conference
 publication: '*Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition

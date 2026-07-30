@@ -9,7 +9,7 @@ authors:
 - Marko Linna
 - Esa Rahtu
 date: '2018-08-01'
-publishDate: '2026-07-23T03:38:48.381152Z'
+publishDate: '2026-07-30T01:08:08.609329Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Multimedia*'

@@ -8,7 +8,7 @@ authors:
 - Hajime Nagahara
 - Yutaka Fujioka
 date: '2021-10-01'
-publishDate: '2026-07-23T03:38:50.994515Z'
+publishDate: '2026-07-30T01:08:10.215565Z'
 publication_types:
 - paper-conference
 publication: '*Proc.~Workshop on Structuring and Understanding of Multimedia Heritage
