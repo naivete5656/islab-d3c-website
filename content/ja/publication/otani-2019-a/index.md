@@ -7,7 +7,7 @@ authors:
 - Janne Heikkilä
 - Janne Heikkila
 date: '2019-01-01'
-publishDate: '2026-07-23T03:38:51.804298Z'
+publishDate: '2026-07-30T01:08:10.764902Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE Computer Society Conference on Computer Vision

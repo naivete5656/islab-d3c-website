@@ -4,7 +4,7 @@ authors:
 - Noa Garcia
 - Yuta Nakashima
 date: '2020-08-01'
-publishDate: '2026-07-23T03:38:51.481330Z'
+publishDate: '2026-07-30T01:08:10.453516Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings - European Conference on Computer Vision*'

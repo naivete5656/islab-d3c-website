@@ -8,7 +8,7 @@ authors:
 - Hirohiko Niioka
 - Mamoru Hashimoto
 date: '2018-09-01'
-publishDate: '2026-07-23T03:38:51.486372Z'
+publishDate: '2026-07-30T01:08:10.460986Z'
 publication_types:
 - article-journal
 publication: '*APL Photonics*'

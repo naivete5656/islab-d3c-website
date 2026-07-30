@@ -6,7 +6,7 @@ authors:
 - Hideaki Hayashi
 - Hajime Nagahara
 date: '2026-01-01'
-publishDate: '2026-07-23T03:38:49.325246Z'
+publishDate: '2026-07-30T01:08:09.727560Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Biometrics, Behavior, and Identity Science*'

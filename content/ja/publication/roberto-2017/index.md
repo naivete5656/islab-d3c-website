@@ -8,7 +8,7 @@ authors:
 - R.-I. Taniguchi
 - V. Teichrieb
 date: '2017-01-01'
-publishDate: '2026-07-23T03:38:51.515623Z'
+publishDate: '2026-07-30T01:08:10.504856Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 15th IAPR International Conference on Machine Vision

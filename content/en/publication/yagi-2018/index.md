@@ -7,7 +7,7 @@ authors:
 - Toshiki Sonoda
 - Hajime Nagahara
 date: '2018-09-01'
-publishDate: '2026-07-23T03:38:48.647354Z'
+publishDate: '2026-07-30T01:08:08.805090Z'
 publication_types:
 - article-journal
 publication: '*IEICE Transactions on Information and Systems*'

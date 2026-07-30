@@ -6,7 +6,7 @@ authors:
 - Yuta Nakashima
 - Naokazu Yokoya
 date: '2017-10-01'
-publishDate: '2026-07-23T03:38:51.825126Z'
+publishDate: '2026-07-30T01:08:10.795890Z'
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Visualization and Computer Graphics*'

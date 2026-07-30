@@ -6,7 +6,7 @@ authors:
 - Tomoyuki Kajiwara
 - Mamoru Komachi
 date: '2019-09-01'
-publishDate: '2026-07-23T03:38:51.557932Z'
+publishDate: '2026-07-30T01:08:10.560115Z'
 publication_types:
 - article-journal
 publication: '*Journal of Natural Language Processing*'

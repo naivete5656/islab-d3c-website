@@ -7,7 +7,7 @@ authors:
 - Noriko Takemura
 - Hajime Nagahara
 date: '2019-01-01'
-publishDate: '2026-07-23T03:38:48.632105Z'
+publishDate: '2026-07-30T01:08:08.782346Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings - IEEE International Conference on Image Processing (ICIP)*'

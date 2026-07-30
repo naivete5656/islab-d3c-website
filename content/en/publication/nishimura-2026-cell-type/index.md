@@ -4,7 +4,7 @@ title: Cell-Type Prototype-Informed Neural Network for Gene Expression Estimatio
 authors:
 - Ryoma Bise, Shinnosuke Matsuo, Haruka Hirose, Yasuhiro Kojima Kazuya Nishimura
 date: '2026-01-01'
-publishDate: '2026-07-23T03:38:47.265938Z'
+publishDate: '2026-07-30T01:08:07.704444Z'
 publication_types:
 - paper-conference
 publication: '*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*'
